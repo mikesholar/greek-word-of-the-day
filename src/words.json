@@ -1,0 +1,7002 @@
+[
+ {
+  "en": "I",
+  "note": "",
+  "el": "εγώ",
+  "tr": "egó",
+  "forms": ""
+ },
+ {
+  "en": "you",
+  "note": "singular",
+  "el": "εσύ",
+  "tr": "esý",
+  "forms": ""
+ },
+ {
+  "en": "he",
+  "note": "",
+  "el": "αυτός",
+  "tr": "aftós",
+  "forms": ""
+ },
+ {
+  "en": "she",
+  "note": "",
+  "el": "αυτή",
+  "tr": "aftí",
+  "forms": ""
+ },
+ {
+  "en": "it",
+  "note": "",
+  "el": "αυτό",
+  "tr": "aftó",
+  "forms": ""
+ },
+ {
+  "en": "we",
+  "note": "",
+  "el": "εμείς",
+  "tr": "emeís",
+  "forms": ""
+ },
+ {
+  "en": "you",
+  "note": "plural",
+  "el": "εσείς",
+  "tr": "eseís",
+  "forms": ""
+ },
+ {
+  "en": "they",
+  "note": "",
+  "el": "αυτοί",
+  "tr": "aftoí",
+  "forms": ""
+ },
+ {
+  "en": "what",
+  "note": "",
+  "el": "τί",
+  "tr": "tí",
+  "forms": ""
+ },
+ {
+  "en": "who",
+  "note": "",
+  "el": "ποιος",
+  "tr": "poios",
+  "forms": ""
+ },
+ {
+  "en": "where",
+  "note": "",
+  "el": "πού",
+  "tr": "poú",
+  "forms": ""
+ },
+ {
+  "en": "why",
+  "note": "",
+  "el": "γιατί",
+  "tr": "giatí",
+  "forms": ""
+ },
+ {
+  "en": "how",
+  "note": "",
+  "el": "πώς",
+  "tr": "pós",
+  "forms": ""
+ },
+ {
+  "en": "which",
+  "note": "",
+  "el": "ποιο",
+  "tr": "poio",
+  "forms": ""
+ },
+ {
+  "en": "when",
+  "note": "",
+  "el": "πότε",
+  "tr": "póte",
+  "forms": ""
+ },
+ {
+  "en": "then",
+  "note": "",
+  "el": "τότε",
+  "tr": "tóte",
+  "forms": ""
+ },
+ {
+  "en": "if",
+  "note": "",
+  "el": "αν",
+  "tr": "an",
+  "forms": ""
+ },
+ {
+  "en": "really",
+  "note": "",
+  "el": "πραγματικά",
+  "tr": "pragmatiká",
+  "forms": ""
+ },
+ {
+  "en": "but",
+  "note": "",
+  "el": "αλλά",
+  "tr": "allá",
+  "forms": ""
+ },
+ {
+  "en": "because",
+  "note": "",
+  "el": "επειδή",
+  "tr": "epeidí",
+  "forms": ""
+ },
+ {
+  "en": "not",
+  "note": "",
+  "el": "δεν",
+  "tr": "den",
+  "forms": ""
+ },
+ {
+  "en": "this",
+  "note": "",
+  "el": "αυτό",
+  "tr": "aftó",
+  "forms": ""
+ },
+ {
+  "en": "I need this",
+  "note": "",
+  "el": "Το χρειάζομαι",
+  "tr": "To chreiázomai",
+  "forms": ""
+ },
+ {
+  "en": "How much is this?",
+  "note": "",
+  "el": "Πόσο κάνει αυτό;",
+  "tr": "Póso kánei aftó?",
+  "forms": ""
+ },
+ {
+  "en": "that",
+  "note": "",
+  "el": "ότι",
+  "tr": "óti",
+  "forms": ""
+ },
+ {
+  "en": "all",
+  "note": "",
+  "el": "όλα",
+  "tr": "óla",
+  "forms": ""
+ },
+ {
+  "en": "or",
+  "note": "",
+  "el": "ή",
+  "tr": "í",
+  "forms": ""
+ },
+ {
+  "en": "and",
+  "note": "",
+  "el": "και",
+  "tr": "kai",
+  "forms": ""
+ },
+ {
+  "en": "to know",
+  "note": "",
+  "el": "ξέρω",
+  "tr": "xéro",
+  "forms": "ήξερα, -, -, -"
+ },
+ {
+  "en": "I know",
+  "note": "",
+  "el": "Ξέρω",
+  "tr": "Xéro",
+  "forms": ""
+ },
+ {
+  "en": "I don't know",
+  "note": "",
+  "el": "Δεν ξέρω",
+  "tr": "Den xéro",
+  "forms": ""
+ },
+ {
+  "en": "to think",
+  "note": "",
+  "el": "σκέφτομαι",
+  "tr": "skéftomai",
+  "forms": "σκέφτηκα, σκέφτομαι, σκέφτηκα, σκεφτόμενος"
+ },
+ {
+  "en": "to come",
+  "note": "",
+  "el": "έρχομαι",
+  "tr": "érchomai",
+  "forms": "ήρθα, έρχομαι, ήρθα, ερχόμενος"
+ },
+ {
+  "en": "to put",
+  "note": "",
+  "el": "βάζω",
+  "tr": "vázo",
+  "forms": "έβαλα, -, βάλθηκα, βαλμένος"
+ },
+ {
+  "en": "to take",
+  "note": "",
+  "el": "παίρνω",
+  "tr": "paírno",
+  "forms": "πήρα, παίρνομαι, πάρθηκα, παρμένος"
+ },
+ {
+  "en": "to find",
+  "note": "",
+  "el": "βρίσκω",
+  "tr": "vrísko",
+  "forms": "βρήκα, βρίσκομαι, βρέθηκα, -"
+ },
+ {
+  "en": "to listen",
+  "note": "",
+  "el": "ακούω",
+  "tr": "akoúo",
+  "forms": "άκουσα, ακούγομαι, ακούστηκα, ακουσμένος"
+ },
+ {
+  "en": "to work",
+  "note": "",
+  "el": "δουλεύω",
+  "tr": "doulévo",
+  "forms": "δούλεψα, δουλεύομαι, δουλεύτηκα, δουλεμένος"
+ },
+ {
+  "en": "to talk",
+  "note": "",
+  "el": "μιλάω",
+  "tr": "miláo",
+  "forms": "μίλησα, μιλιέμαι, μιλήθηκα, μιλημένος"
+ },
+ {
+  "en": "to give",
+  "note": "somebody something",
+  "el": "δίνω",
+  "tr": "díno",
+  "forms": "έδωσα, δίνομαι, δόθηκα, δοσμένος"
+ },
+ {
+  "en": "to like",
+  "note": "",
+  "el": "μου αρέσει",
+  "tr": "mou arései",
+  "forms": "μου άρεσε, -, -, -"
+ },
+ {
+  "en": "to help",
+  "note": "",
+  "el": "βοηθώ",
+  "tr": "voithó",
+  "forms": "βοήθησα, βοηθιέμαι, βοηθήθηκα, βοηθημένος"
+ },
+ {
+  "en": "to love",
+  "note": "",
+  "el": "αγαπώ",
+  "tr": "agapó",
+  "forms": "αγάπησα, αγαπιέμαι, αγαπήθηκα, αγαπημένος"
+ },
+ {
+  "en": "to call",
+  "note": "",
+  "el": "καλώ",
+  "tr": "kaló",
+  "forms": "κάλεσα, καλούμαι, καλέστηκα, καλεσμένος"
+ },
+ {
+  "en": "to wait",
+  "note": "",
+  "el": "περιμένω",
+  "tr": "periméno",
+  "forms": "περίμενα, -, -, -"
+ },
+ {
+  "en": "I like you",
+  "note": "",
+  "el": "Μου αρέσεις",
+  "tr": "Mou aréseis",
+  "forms": ""
+ },
+ {
+  "en": "I don't like this",
+  "note": "",
+  "el": "Δεν μου αρέσει αυτό",
+  "tr": "Den mou arései aftó",
+  "forms": ""
+ },
+ {
+  "en": "Do you love me?",
+  "note": "",
+  "el": "Με αγαπάς;",
+  "tr": "Me agapás?",
+  "forms": ""
+ },
+ {
+  "en": "I love you",
+  "note": "",
+  "el": "Σε αγαπώ",
+  "tr": "Se agapó",
+  "forms": ""
+ },
+ {
+  "en": "0",
+  "note": "",
+  "el": "μηδέν",
+  "tr": "midén",
+  "forms": ""
+ },
+ {
+  "en": "1",
+  "note": "",
+  "el": "ένα",
+  "tr": "éna",
+  "forms": ""
+ },
+ {
+  "en": "2",
+  "note": "",
+  "el": "δύο",
+  "tr": "dýo",
+  "forms": ""
+ },
+ {
+  "en": "3",
+  "note": "",
+  "el": "τρία",
+  "tr": "tría",
+  "forms": ""
+ },
+ {
+  "en": "4",
+  "note": "",
+  "el": "τέσσερα",
+  "tr": "téssera",
+  "forms": ""
+ },
+ {
+  "en": "5",
+  "note": "",
+  "el": "πέντε",
+  "tr": "pénte",
+  "forms": ""
+ },
+ {
+  "en": "6",
+  "note": "",
+  "el": "έξι",
+  "tr": "éxi",
+  "forms": ""
+ },
+ {
+  "en": "7",
+  "note": "",
+  "el": "επτά",
+  "tr": "eptá",
+  "forms": ""
+ },
+ {
+  "en": "8",
+  "note": "",
+  "el": "οκτώ",
+  "tr": "októ",
+  "forms": ""
+ },
+ {
+  "en": "9",
+  "note": "",
+  "el": "εννέα",
+  "tr": "ennéa",
+  "forms": ""
+ },
+ {
+  "en": "10",
+  "note": "",
+  "el": "δέκα",
+  "tr": "déka",
+  "forms": ""
+ },
+ {
+  "en": "11",
+  "note": "",
+  "el": "έντεκα",
+  "tr": "énteka",
+  "forms": ""
+ },
+ {
+  "en": "12",
+  "note": "",
+  "el": "δώδεκα",
+  "tr": "dódeka",
+  "forms": ""
+ },
+ {
+  "en": "13",
+  "note": "",
+  "el": "δεκατρία",
+  "tr": "dekatría",
+  "forms": ""
+ },
+ {
+  "en": "14",
+  "note": "",
+  "el": "δεκατέσσερα",
+  "tr": "dekatéssera",
+  "forms": ""
+ },
+ {
+  "en": "15",
+  "note": "",
+  "el": "δεκαπέντε",
+  "tr": "dekapénte",
+  "forms": ""
+ },
+ {
+  "en": "16",
+  "note": "",
+  "el": "δεκαέξι",
+  "tr": "dekaéxi",
+  "forms": ""
+ },
+ {
+  "en": "17",
+  "note": "",
+  "el": "δεκαεπτά",
+  "tr": "dekaeptá",
+  "forms": ""
+ },
+ {
+  "en": "18",
+  "note": "",
+  "el": "δεκαοκτώ",
+  "tr": "dekaoktó",
+  "forms": ""
+ },
+ {
+  "en": "19",
+  "note": "",
+  "el": "δεκαεννέα",
+  "tr": "dekaennéa",
+  "forms": ""
+ },
+ {
+  "en": "20",
+  "note": "",
+  "el": "είκοσι",
+  "tr": "eíkosi",
+  "forms": ""
+ },
+ {
+  "en": "new",
+  "note": "",
+  "el": "νέος",
+  "tr": "néos",
+  "forms": "νέα, νέο, νέοι, νέες, νέα"
+ },
+ {
+  "en": "old",
+  "note": "not new",
+  "el": "παλιός",
+  "tr": "paliós",
+  "forms": "παλιά, παλιό, παλιοί, παλιές, παλιά"
+ },
+ {
+  "en": "few",
+  "note": "",
+  "el": "λίγα",
+  "tr": "líga",
+  "forms": "λίγη, λίγο, λίγοι, λίγες, λίγα"
+ },
+ {
+  "en": "many",
+  "note": "",
+  "el": "πολλά",
+  "tr": "pollá",
+  "forms": "πολλή, πολύ, πολλοί, πολλές, πολλά"
+ },
+ {
+  "en": "how much?",
+  "note": "",
+  "el": "πόσο;",
+  "tr": "póso?",
+  "forms": ""
+ },
+ {
+  "en": "how many?",
+  "note": "",
+  "el": "πόσα;",
+  "tr": "pósa?",
+  "forms": ""
+ },
+ {
+  "en": "wrong",
+  "note": "",
+  "el": "λανθασμένος",
+  "tr": "lanthasménos",
+  "forms": "λανθασμένη, λανθασμένο, λανθασμένοι, λανθασμένες, λανθασμένα"
+ },
+ {
+  "en": "correct",
+  "note": "",
+  "el": "σωστός",
+  "tr": "sostós",
+  "forms": "σωστή, σωστό, σωστοί, σωστές, σωστά"
+ },
+ {
+  "en": "bad",
+  "note": "",
+  "el": "κακός",
+  "tr": "kakós",
+  "forms": "κακή, κακό, κακοί, κακές, κακά"
+ },
+ {
+  "en": "good",
+  "note": "",
+  "el": "καλός",
+  "tr": "kalós",
+  "forms": "καλή, καλό, καλοί, καλές, καλά"
+ },
+ {
+  "en": "happy",
+  "note": "",
+  "el": "χαρούμενος",
+  "tr": "charoúmenos",
+  "forms": "χαρούμενη, χαρούμενο, χαρούμενοι, χαρούμενες, χαρούμενα"
+ },
+ {
+  "en": "short",
+  "note": "length",
+  "el": "κοντός",
+  "tr": "kontós",
+  "forms": "κοντή, κοντό, κοντοί, κοντές, κοντά"
+ },
+ {
+  "en": "long",
+  "note": "",
+  "el": "μακρύς",
+  "tr": "makrýs",
+  "forms": "μακριά, μακρύ, μακριοί, μακριές, μακριά"
+ },
+ {
+  "en": "small",
+  "note": "",
+  "el": "μικρός",
+  "tr": "mikrós",
+  "forms": "μικρή, μικρό, μικροί, μικρές, μικρά"
+ },
+ {
+  "en": "big",
+  "note": "",
+  "el": "μεγάλος",
+  "tr": "megálos",
+  "forms": "μεγάλη, μεγάλο, μεγάλοι, μεγάλες, μεγάλα"
+ },
+ {
+  "en": "there",
+  "note": "",
+  "el": "εκεί",
+  "tr": "ekeí",
+  "forms": ""
+ },
+ {
+  "en": "here",
+  "note": "",
+  "el": "εδώ",
+  "tr": "edó",
+  "forms": ""
+ },
+ {
+  "en": "right",
+  "note": "",
+  "el": "δεξιά",
+  "tr": "dexiá",
+  "forms": ""
+ },
+ {
+  "en": "left",
+  "note": "",
+  "el": "αριστερά",
+  "tr": "aristerá",
+  "forms": ""
+ },
+ {
+  "en": "beautiful",
+  "note": "",
+  "el": "όμορφος",
+  "tr": "ómorfos",
+  "forms": "όμορφη, όμορφο, όμορφοι, όμορφες, όμορφα"
+ },
+ {
+  "en": "young",
+  "note": "",
+  "el": "νέος",
+  "tr": "néos",
+  "forms": "νέα, νέο, νέοι, νέες, νέα"
+ },
+ {
+  "en": "old",
+  "note": "not young",
+  "el": "γέρος",
+  "tr": "géros",
+  "forms": "γριά, γέρικο, γέροι, γριές, γέρικα"
+ },
+ {
+  "en": "hello",
+  "note": "",
+  "el": "χαίρετε",
+  "tr": "chaírete",
+  "forms": ""
+ },
+ {
+  "en": "see you later",
+  "note": "",
+  "el": "τα λέμε αργότερα",
+  "tr": "ta léme argótera",
+  "forms": ""
+ },
+ {
+  "en": "ok",
+  "note": "",
+  "el": "εντάξει",
+  "tr": "entáxei",
+  "forms": ""
+ },
+ {
+  "en": "take care",
+  "note": "",
+  "el": "να προσέχεις",
+  "tr": "na prosécheis",
+  "forms": ""
+ },
+ {
+  "en": "don't worry",
+  "note": "",
+  "el": "ηρέμησε",
+  "tr": "irémise",
+  "forms": ""
+ },
+ {
+  "en": "of course",
+  "note": "",
+  "el": "φυσικά",
+  "tr": "fysiká",
+  "forms": ""
+ },
+ {
+  "en": "good day",
+  "note": "",
+  "el": "καλημέρα",
+  "tr": "kaliméra",
+  "forms": ""
+ },
+ {
+  "en": "hi",
+  "note": "",
+  "el": "γεια",
+  "tr": "geia",
+  "forms": ""
+ },
+ {
+  "en": "bye bye",
+  "note": "",
+  "el": "γειά",
+  "tr": "geiá",
+  "forms": ""
+ },
+ {
+  "en": "good bye",
+  "note": "",
+  "el": "αντίο σας",
+  "tr": "antío sas",
+  "forms": ""
+ },
+ {
+  "en": "excuse me",
+  "note": "",
+  "el": "με συγχωρείτε",
+  "tr": "me synchoreíte",
+  "forms": ""
+ },
+ {
+  "en": "sorry",
+  "note": "",
+  "el": "συγγνώμη",
+  "tr": "syngnómi",
+  "forms": ""
+ },
+ {
+  "en": "thank you",
+  "note": "",
+  "el": "ευχαριστώ",
+  "tr": "efcharistó",
+  "forms": ""
+ },
+ {
+  "en": "please",
+  "note": "",
+  "el": "παρακαλώ",
+  "tr": "parakaló",
+  "forms": ""
+ },
+ {
+  "en": "I want this",
+  "note": "",
+  "el": "θέλω αυτό",
+  "tr": "thélo aftó",
+  "forms": ""
+ },
+ {
+  "en": "now",
+  "note": "",
+  "el": "τώρα",
+  "tr": "tóra",
+  "forms": ""
+ },
+ {
+  "en": "afternoon",
+  "note": "",
+  "el": "το απόγευμα",
+  "tr": "apógevma",
+  "forms": ""
+ },
+ {
+  "en": "morning",
+  "note": "9:00-11:00",
+  "el": "το πρωί",
+  "tr": "proí",
+  "forms": ""
+ },
+ {
+  "en": "night",
+  "note": "",
+  "el": "η νύχτα",
+  "tr": "nýchta",
+  "forms": ""
+ },
+ {
+  "en": "morning",
+  "note": "6:00-9:00",
+  "el": "το πρωί",
+  "tr": "proí",
+  "forms": ""
+ },
+ {
+  "en": "evening",
+  "note": "",
+  "el": "νωρίς το βράδυ",
+  "tr": "norís to vrády",
+  "forms": ""
+ },
+ {
+  "en": "noon",
+  "note": "",
+  "el": "το μεσημέρι",
+  "tr": "mesiméri",
+  "forms": ""
+ },
+ {
+  "en": "midnight",
+  "note": "",
+  "el": "τα μεσάνυχτα",
+  "tr": "mesánychta",
+  "forms": ""
+ },
+ {
+  "en": "hour",
+  "note": "",
+  "el": "η ώρα",
+  "tr": "óra",
+  "forms": ""
+ },
+ {
+  "en": "minute",
+  "note": "",
+  "el": "το λεπτό",
+  "tr": "leptó",
+  "forms": ""
+ },
+ {
+  "en": "second",
+  "note": "time",
+  "el": "το δευτερόλεπτο",
+  "tr": "defterólepto",
+  "forms": ""
+ },
+ {
+  "en": "day",
+  "note": "",
+  "el": "η ημέρα",
+  "tr": "iméra",
+  "forms": ""
+ },
+ {
+  "en": "week",
+  "note": "",
+  "el": "η εβδομάδα",
+  "tr": "evdomáda",
+  "forms": ""
+ },
+ {
+  "en": "month",
+  "note": "",
+  "el": "ο μήνας",
+  "tr": "mínas",
+  "forms": ""
+ },
+ {
+  "en": "year",
+  "note": "",
+  "el": "το έτος",
+  "tr": "étos",
+  "forms": ""
+ },
+ {
+  "en": "time",
+  "note": "",
+  "el": "ο χρόνος",
+  "tr": "chrónos",
+  "forms": ""
+ },
+ {
+  "en": "date",
+  "note": "time",
+  "el": "η ημερομηνία",
+  "tr": "imerominía",
+  "forms": ""
+ },
+ {
+  "en": "the day before yesterday",
+  "note": "",
+  "el": "προχθές",
+  "tr": "prochthés",
+  "forms": ""
+ },
+ {
+  "en": "yesterday",
+  "note": "",
+  "el": "εχθές",
+  "tr": "echthés",
+  "forms": ""
+ },
+ {
+  "en": "today",
+  "note": "",
+  "el": "σήμερα",
+  "tr": "símera",
+  "forms": ""
+ },
+ {
+  "en": "tomorrow",
+  "note": "",
+  "el": "αύριο",
+  "tr": "ávrio",
+  "forms": ""
+ },
+ {
+  "en": "the day after tomorrow",
+  "note": "",
+  "el": "μεθαύριο",
+  "tr": "methávrio",
+  "forms": ""
+ },
+ {
+  "en": "Monday",
+  "note": "",
+  "el": "η Δευτέρα",
+  "tr": "Deftéra",
+  "forms": ""
+ },
+ {
+  "en": "Tuesday",
+  "note": "",
+  "el": "η Τρίτη",
+  "tr": "Tríti",
+  "forms": ""
+ },
+ {
+  "en": "Wednesday",
+  "note": "",
+  "el": "η Τετάρτη",
+  "tr": "Tetárti",
+  "forms": ""
+ },
+ {
+  "en": "Thursday",
+  "note": "",
+  "el": "η Πέμπτη",
+  "tr": "Pémpti",
+  "forms": ""
+ },
+ {
+  "en": "Friday",
+  "note": "",
+  "el": "η Παρασκευή",
+  "tr": "Paraskeví",
+  "forms": ""
+ },
+ {
+  "en": "Saturday",
+  "note": "",
+  "el": "το Σάββατο",
+  "tr": "Sávvato",
+  "forms": ""
+ },
+ {
+  "en": "Sunday",
+  "note": "",
+  "el": "η Κυριακή",
+  "tr": "Kyriakí",
+  "forms": ""
+ },
+ {
+  "en": "Tomorrow is Saturday",
+  "note": "",
+  "el": "Αύριο είναι Σάββατο",
+  "tr": "Ávrio eínai Sávvato",
+  "forms": ""
+ },
+ {
+  "en": "life",
+  "note": "",
+  "el": "η ζωή",
+  "tr": "zoí",
+  "forms": ""
+ },
+ {
+  "en": "woman",
+  "note": "",
+  "el": "η γυναίκα",
+  "tr": "gynaíka",
+  "forms": ""
+ },
+ {
+  "en": "man",
+  "note": "",
+  "el": "ο άνδρας",
+  "tr": "ándras",
+  "forms": ""
+ },
+ {
+  "en": "love",
+  "note": "",
+  "el": "η αγάπη",
+  "tr": "agápi",
+  "forms": ""
+ },
+ {
+  "en": "boyfriend",
+  "note": "",
+  "el": "ο φίλος",
+  "tr": "fílos",
+  "forms": ""
+ },
+ {
+  "en": "girlfriend",
+  "note": "",
+  "el": "η φίλη",
+  "tr": "fíli",
+  "forms": ""
+ },
+ {
+  "en": "friend",
+  "note": "",
+  "el": "ο φίλος",
+  "tr": "fílos",
+  "forms": ""
+ },
+ {
+  "en": "kiss",
+  "note": "",
+  "el": "το φιλί",
+  "tr": "filí",
+  "forms": ""
+ },
+ {
+  "en": "sex",
+  "note": "",
+  "el": "το σεξ",
+  "tr": "sex",
+  "forms": ""
+ },
+ {
+  "en": "child",
+  "note": "",
+  "el": "το παιδί",
+  "tr": "paidí",
+  "forms": ""
+ },
+ {
+  "en": "baby",
+  "note": "",
+  "el": "το μωρό",
+  "tr": "moró",
+  "forms": ""
+ },
+ {
+  "en": "girl",
+  "note": "",
+  "el": "το κορίτσι",
+  "tr": "korítsi",
+  "forms": ""
+ },
+ {
+  "en": "boy",
+  "note": "",
+  "el": "το αγόρι",
+  "tr": "agóri",
+  "forms": ""
+ },
+ {
+  "en": "mum",
+  "note": "",
+  "el": "η μαμά",
+  "tr": "mamá",
+  "forms": ""
+ },
+ {
+  "en": "dad",
+  "note": "",
+  "el": "ο μπαμπάς",
+  "tr": "bampás",
+  "forms": ""
+ },
+ {
+  "en": "mother",
+  "note": "",
+  "el": "η μητέρα",
+  "tr": "mitéra",
+  "forms": ""
+ },
+ {
+  "en": "father",
+  "note": "",
+  "el": "ο πατέρας",
+  "tr": "patéras",
+  "forms": ""
+ },
+ {
+  "en": "parents",
+  "note": "",
+  "el": "οι γονείς",
+  "tr": "goneís",
+  "forms": ""
+ },
+ {
+  "en": "son",
+  "note": "",
+  "el": "ο γιός",
+  "tr": "giós",
+  "forms": ""
+ },
+ {
+  "en": "daughter",
+  "note": "",
+  "el": "η κόρη",
+  "tr": "kóri",
+  "forms": ""
+ },
+ {
+  "en": "little sister",
+  "note": "",
+  "el": "η μικρή αδερφή",
+  "tr": "mikrí aderfí",
+  "forms": ""
+ },
+ {
+  "en": "little brother",
+  "note": "",
+  "el": "ο μικρός αδερφός",
+  "tr": "mikrós aderfós",
+  "forms": ""
+ },
+ {
+  "en": "big sister",
+  "note": "",
+  "el": "η μεγάλη αδερφή",
+  "tr": "megáli aderfí",
+  "forms": ""
+ },
+ {
+  "en": "big brother",
+  "note": "",
+  "el": "ο μεγάλος αδερφός",
+  "tr": "megálos aderfós",
+  "forms": ""
+ },
+ {
+  "en": "to stand",
+  "note": "",
+  "el": "στέκομαι",
+  "tr": "stékomai",
+  "forms": "στάθηκα, στέκομαι, στάθηκα, -"
+ },
+ {
+  "en": "to sit",
+  "note": "",
+  "el": "κάθομαι",
+  "tr": "káthomai",
+  "forms": "κάθισα, κάθομαι, κάθισα, καθισμένος"
+ },
+ {
+  "en": "to lie",
+  "note": "",
+  "el": "ξαπλώνω",
+  "tr": "xaplóno",
+  "forms": "ξάπλωσα, ξαπλώνομαι, ξαπλώθηκα, ξαπλωμένος"
+ },
+ {
+  "en": "to close",
+  "note": "",
+  "el": "κλείνω",
+  "tr": "kleíno",
+  "forms": "έκλεισα, κλείνομαι, κλείστηκα, κλεισμένος"
+ },
+ {
+  "en": "to open",
+  "note": "e.g. a door",
+  "el": "ανοίγω",
+  "tr": "anoígo",
+  "forms": "άνοιξα, ανοίγομαι, ανοίχτηκα, ανοιγμένος"
+ },
+ {
+  "en": "to lose",
+  "note": "",
+  "el": "χάνω",
+  "tr": "cháno",
+  "forms": "έχασα, χάνομαι, χάθηκα, χαμένος"
+ },
+ {
+  "en": "to win",
+  "note": "",
+  "el": "κερδίζω",
+  "tr": "kerdízo",
+  "forms": "κέρδισα, κερδίζομαι, κερδήθηκα, κερδισμένος"
+ },
+ {
+  "en": "to die",
+  "note": "",
+  "el": "πεθαίνω",
+  "tr": "pethaíno",
+  "forms": "πέθανα, -, -, πεθαμένος"
+ },
+ {
+  "en": "to live",
+  "note": "",
+  "el": "ζω",
+  "tr": "zo",
+  "forms": "έζησα, -, -, -"
+ },
+ {
+  "en": "to turn on",
+  "note": "",
+  "el": "ανάβω",
+  "tr": "anávo",
+  "forms": "άναψα, ανάβομαι, ανάφτηκα, αναμμένος"
+ },
+ {
+  "en": "to turn off",
+  "note": "",
+  "el": "σβήνω",
+  "tr": "svíno",
+  "forms": "έσβησα, σβήνομαι, σβήστηκα, σβησμένος"
+ },
+ {
+  "en": "to kill",
+  "note": "",
+  "el": "σκοτώνω",
+  "tr": "skotóno",
+  "forms": "σκότωσα, σκοτώνομαι, σκοτώθηκα, σκοτωμένος"
+ },
+ {
+  "en": "to injure",
+  "note": "",
+  "el": "τραυματίζω",
+  "tr": "travmatízo",
+  "forms": "τραυμάτισα, τραυματίζομαι, τραυματίστηκα, τραυματισμένος"
+ },
+ {
+  "en": "to touch",
+  "note": "",
+  "el": "αγγίζω",
+  "tr": "angízo",
+  "forms": "άγγιξα, αγγίζομαι, αγγίχτηκα, αγγιγμένος"
+ },
+ {
+  "en": "to watch",
+  "note": "",
+  "el": "παρακολουθώ",
+  "tr": "parakolouthó",
+  "forms": "παρακολούθησα, παρακολουθούμαι, παρακολουθήθηκα, παρακολουθημένος"
+ },
+ {
+  "en": "to drink",
+  "note": "",
+  "el": "πίνω",
+  "tr": "píno",
+  "forms": "ήπια, πίνομαι, πιώθηκα, πιωμένος"
+ },
+ {
+  "en": "to eat",
+  "note": "",
+  "el": "τρώω",
+  "tr": "tróo",
+  "forms": "έφαγα, τρώγομαι, φαγώθηκα, φαγωμένος"
+ },
+ {
+  "en": "to walk",
+  "note": "",
+  "el": "περπατώ",
+  "tr": "perpató",
+  "forms": "περπάτησα, περπατιέμαι, περπατήθηκα, περπατημένος"
+ },
+ {
+  "en": "to meet",
+  "note": "",
+  "el": "συναντάω",
+  "tr": "synantáo",
+  "forms": "συνάντησα, συναντιέμαι, συναντήθηκα, -"
+ },
+ {
+  "en": "to bet",
+  "note": "",
+  "el": "στοιχηματίζω",
+  "tr": "stoichimatízo",
+  "forms": "στοιχημάτισα, -, -, -"
+ },
+ {
+  "en": "to kiss",
+  "note": "",
+  "el": "φιλώ",
+  "tr": "filó",
+  "forms": "φίλησα, φιλιέμαι, φιλήθηκα, φιλημένος"
+ },
+ {
+  "en": "to follow",
+  "note": "",
+  "el": "ακολουθώ",
+  "tr": "akolouthó",
+  "forms": "ακολούθησα, ακολουθούμαι, ακολουθήθηκα, ακολουθημένος"
+ },
+ {
+  "en": "to marry",
+  "note": "",
+  "el": "παντρεύομαι",
+  "tr": "pantrévomai",
+  "forms": "πάντρεψα, παντρεύομαι, παντρεύτηκα, παντρεμένος"
+ },
+ {
+  "en": "to answer",
+  "note": "",
+  "el": "απαντώ",
+  "tr": "apantó",
+  "forms": "απάντησα, απαντιέμαι, απαντήθηκα, απαντημένος"
+ },
+ {
+  "en": "to ask",
+  "note": "",
+  "el": "ρωτώ",
+  "tr": "rotó",
+  "forms": "ρώτησα, ρωτιέμαι, ρωτήθηκα, ρωτημένος"
+ },
+ {
+  "en": "question",
+  "note": "",
+  "el": "ερώτηση",
+  "tr": "erótisi",
+  "forms": ""
+ },
+ {
+  "en": "company",
+  "note": "",
+  "el": "η Εταιρία",
+  "tr": "Etairía",
+  "forms": ""
+ },
+ {
+  "en": "business",
+  "note": "",
+  "el": "η επιχείρηση",
+  "tr": "epicheírisi",
+  "forms": ""
+ },
+ {
+  "en": "job",
+  "note": "",
+  "el": "η δουλειά",
+  "tr": "douleiá",
+  "forms": ""
+ },
+ {
+  "en": "money",
+  "note": "",
+  "el": "τα χρήματα",
+  "tr": "chrímata",
+  "forms": ""
+ },
+ {
+  "en": "telephone",
+  "note": "",
+  "el": "το τηλέφωνο",
+  "tr": "tiléfono",
+  "forms": ""
+ },
+ {
+  "en": "oﬃce",
+  "note": "",
+  "el": "το γραφείο",
+  "tr": "grafeío",
+  "forms": ""
+ },
+ {
+  "en": "doctor",
+  "note": "",
+  "el": "ο γιατρός",
+  "tr": "giatrós",
+  "forms": ""
+ },
+ {
+  "en": "hospital",
+  "note": "",
+  "el": "το νοσοκομείο",
+  "tr": "nosokomeío",
+  "forms": ""
+ },
+ {
+  "en": "nurse",
+  "note": "",
+  "el": "η νοσοκόμα",
+  "tr": "nosokóma",
+  "forms": ""
+ },
+ {
+  "en": "policeman",
+  "note": "",
+  "el": "ο αστυνομικός",
+  "tr": "astynomikós",
+  "forms": ""
+ },
+ {
+  "en": "president",
+  "note": "of a state",
+  "el": "ο πρόεδρος",
+  "tr": "próedros",
+  "forms": ""
+ },
+ {
+  "en": "white",
+  "note": "",
+  "el": "λευκό",
+  "tr": "lefkó",
+  "forms": ""
+ },
+ {
+  "en": "black",
+  "note": "",
+  "el": "μαύρο",
+  "tr": "mávro",
+  "forms": ""
+ },
+ {
+  "en": "red",
+  "note": "",
+  "el": "κόκκινο",
+  "tr": "kókkino",
+  "forms": ""
+ },
+ {
+  "en": "blue",
+  "note": "",
+  "el": "μπλε",
+  "tr": "ble",
+  "forms": ""
+ },
+ {
+  "en": "green",
+  "note": "",
+  "el": "πράσινο",
+  "tr": "prásino",
+  "forms": ""
+ },
+ {
+  "en": "yellow",
+  "note": "",
+  "el": "κίτρινο",
+  "tr": "kítrino",
+  "forms": ""
+ },
+ {
+  "en": "slow",
+  "note": "",
+  "el": "αργός",
+  "tr": "argós",
+  "forms": "αργή, αργό, αργοί, αργές, αργά"
+ },
+ {
+  "en": "quick",
+  "note": "",
+  "el": "γρήγορος",
+  "tr": "grígoros",
+  "forms": "γρήγορη, γρήγορο, γρήγοροι, γρήγορες, γρήγορα"
+ },
+ {
+  "en": "funny",
+  "note": "",
+  "el": "αστείος",
+  "tr": "asteíos",
+  "forms": "αστεία, αστείο, αστείοι, αστείες, αστεία"
+ },
+ {
+  "en": "unfair",
+  "note": "",
+  "el": "άδικος",
+  "tr": "ádikos",
+  "forms": "άδικη, άδικο, άδικοι, άδικες, άδικα"
+ },
+ {
+  "en": "fair",
+  "note": "",
+  "el": "δίκαιος",
+  "tr": "díkaios",
+  "forms": "δίκαια, δίκαιο, δίκαιοι, δίκαιες, δίκαια"
+ },
+ {
+  "en": "diﬃcult",
+  "note": "",
+  "el": "δύσκολος",
+  "tr": "dýskolos",
+  "forms": "δύσκολη, δύσκολο, δύσκολοι, δύσκολες, δύσκολα"
+ },
+ {
+  "en": "easy",
+  "note": "",
+  "el": "εύκολος",
+  "tr": "éfkolos",
+  "forms": "εύκολη, εύκολο, εύκολοι, εύκολες, εύκολα"
+ },
+ {
+  "en": "This is diﬃcult",
+  "note": "",
+  "el": "Αυτό είναι δύσκολο",
+  "tr": "Aftó eínai dýskolo",
+  "forms": ""
+ },
+ {
+  "en": "rich",
+  "note": "",
+  "el": "πλούσιος",
+  "tr": "ploúsios",
+  "forms": "πλούσια, πλούσιο, πλούσιοι, πλούσιες, πλούσια"
+ },
+ {
+  "en": "poor",
+  "note": "",
+  "el": "φτωχός",
+  "tr": "ftochós",
+  "forms": "φτωχιά, φτωχό, φτωχοί, φτωχές, φτωχά"
+ },
+ {
+  "en": "strong",
+  "note": "",
+  "el": "δυνατός",
+  "tr": "dynatós",
+  "forms": "δυνατή, δυνατό, δυνατοί, δυνατές, δυνατά"
+ },
+ {
+  "en": "weak",
+  "note": "",
+  "el": "αδύναμος",
+  "tr": "adýnamos",
+  "forms": "αδύναμη, αδύναμο, αδύναμοι, αδύναμες, αδύναμα"
+ },
+ {
+  "en": "safe",
+  "note": "adjective",
+  "el": "ασφαλής",
+  "tr": "asfalís",
+  "forms": "ασφαλής, ασφαλές, ασφαλείς, ασφαλείς, ασφαλή"
+ },
+ {
+  "en": "tired",
+  "note": "",
+  "el": "κουρασμένος",
+  "tr": "kourasménos",
+  "forms": "κουρασμένη, κουρασμένο, κουρασμένοι, κουρασμένες, κουρασμένα"
+ },
+ {
+  "en": "proud",
+  "note": "",
+  "el": "υπερήφανος",
+  "tr": "yperífanos",
+  "forms": "υπερήφανη, υπερήφανο, υπερήφανοι, υπερήφανες, υπερήφανα"
+ },
+ {
+  "en": "full",
+  "note": "from eating",
+  "el": "χορτάτος",
+  "tr": "chortátos",
+  "forms": "χορτάτη, χορτάτο, χορτάτοι, χορτάτες, χορτάτα"
+ },
+ {
+  "en": "sick",
+  "note": "",
+  "el": "άρρωστος",
+  "tr": "árrostos",
+  "forms": "άρρωστη, άρρωστο, άρρωστοι, άρρωστες, άρρωστα"
+ },
+ {
+  "en": "healthy",
+  "note": "",
+  "el": "υγιής",
+  "tr": "ygiís",
+  "forms": "υγιής, υγιές, υγιείς, υγιείς, υγιή"
+ },
+ {
+  "en": "angry",
+  "note": "",
+  "el": "θυμωμένος",
+  "tr": "thymoménos",
+  "forms": "θυμωμένη, θυμωμένο, θυμωμένοι, θυμωμένες, θυμωμένα"
+ },
+ {
+  "en": "low",
+  "note": "",
+  "el": "χαμηλός",
+  "tr": "chamilós",
+  "forms": "χαμηλή, χαμηλό, χαμηλοί, χαμηλές, χαμηλά"
+ },
+ {
+  "en": "high",
+  "note": "",
+  "el": "ψηλός",
+  "tr": "psilós",
+  "forms": "ψηλή, ψηλό, ψηλοί, ψηλές, ψηλά"
+ },
+ {
+  "en": "straight",
+  "note": "line",
+  "el": "ευθύς",
+  "tr": "efthýs",
+  "forms": "ευθεία, ευθύ, ευθείς, ευθείες, ευθέα"
+ },
+ {
+  "en": "every",
+  "note": "",
+  "el": "κάθε",
+  "tr": "káthe",
+  "forms": ""
+ },
+ {
+  "en": "always",
+  "note": "",
+  "el": "πάντα",
+  "tr": "pánta",
+  "forms": ""
+ },
+ {
+  "en": "actually",
+  "note": "",
+  "el": "βασικά",
+  "tr": "vasiká",
+  "forms": ""
+ },
+ {
+  "en": "again",
+  "note": "",
+  "el": "πάλι",
+  "tr": "páli",
+  "forms": ""
+ },
+ {
+  "en": "already",
+  "note": "",
+  "el": "ήδη",
+  "tr": "ídi",
+  "forms": ""
+ },
+ {
+  "en": "less",
+  "note": "",
+  "el": "λιγότερο",
+  "tr": "ligótero",
+  "forms": ""
+ },
+ {
+  "en": "most",
+  "note": "",
+  "el": "πλέον",
+  "tr": "pléon",
+  "forms": ""
+ },
+ {
+  "en": "more",
+  "note": "",
+  "el": "περισσότερο",
+  "tr": "perissótero",
+  "forms": ""
+ },
+ {
+  "en": "I want more",
+  "note": "",
+  "el": "Θέλω κι άλλο",
+  "tr": "Thélo ki állo",
+  "forms": ""
+ },
+ {
+  "en": "none",
+  "note": "",
+  "el": "κανένας",
+  "tr": "kanénas",
+  "forms": ""
+ },
+ {
+  "en": "very",
+  "note": "",
+  "el": "πολύ",
+  "tr": "polý",
+  "forms": ""
+ },
+ {
+  "en": "animal",
+  "note": "",
+  "el": "το ζώο",
+  "tr": "zóo",
+  "forms": ""
+ },
+ {
+  "en": "pig",
+  "note": "",
+  "el": "ο χοίρος",
+  "tr": "choíros",
+  "forms": ""
+ },
+ {
+  "en": "cow",
+  "note": "",
+  "el": "η αγελάδα",
+  "tr": "ageláda",
+  "forms": ""
+ },
+ {
+  "en": "horse",
+  "note": "",
+  "el": "το άλογο",
+  "tr": "álogo",
+  "forms": ""
+ },
+ {
+  "en": "dog",
+  "note": "",
+  "el": "ο σκύλος",
+  "tr": "skýlos",
+  "forms": ""
+ },
+ {
+  "en": "sheep",
+  "note": "",
+  "el": "το πρόβατο",
+  "tr": "próvato",
+  "forms": ""
+ },
+ {
+  "en": "monkey",
+  "note": "",
+  "el": "η μαϊμού",
+  "tr": "maïmoú",
+  "forms": ""
+ },
+ {
+  "en": "cat",
+  "note": "",
+  "el": "η γάτα",
+  "tr": "gáta",
+  "forms": ""
+ },
+ {
+  "en": "bear",
+  "note": "",
+  "el": "η αρκούδα",
+  "tr": "arkoúda",
+  "forms": ""
+ },
+ {
+  "en": "chicken",
+  "note": "animal",
+  "el": "το κοτόπουλο",
+  "tr": "kotópoulo",
+  "forms": ""
+ },
+ {
+  "en": "duck",
+  "note": "",
+  "el": "η πάπια",
+  "tr": "pápia",
+  "forms": ""
+ },
+ {
+  "en": "butterfly",
+  "note": "",
+  "el": "η πεταλούδα",
+  "tr": "petaloúda",
+  "forms": ""
+ },
+ {
+  "en": "bee",
+  "note": "",
+  "el": "η μέλισσα",
+  "tr": "mélissa",
+  "forms": ""
+ },
+ {
+  "en": "fish",
+  "note": "animal",
+  "el": "το ψάρι",
+  "tr": "psári",
+  "forms": ""
+ },
+ {
+  "en": "spider",
+  "note": "",
+  "el": "η αράχνη",
+  "tr": "aráchni",
+  "forms": ""
+ },
+ {
+  "en": "snake",
+  "note": "",
+  "el": "το φίδι",
+  "tr": "fídi",
+  "forms": ""
+ },
+ {
+  "en": "outside",
+  "note": "",
+  "el": "έξω",
+  "tr": "éxo",
+  "forms": ""
+ },
+ {
+  "en": "inside",
+  "note": "",
+  "el": "μέσα",
+  "tr": "mésa",
+  "forms": ""
+ },
+ {
+  "en": "far",
+  "note": "",
+  "el": "μακριά",
+  "tr": "makriá",
+  "forms": ""
+ },
+ {
+  "en": "close",
+  "note": "",
+  "el": "κοντά",
+  "tr": "kontá",
+  "forms": ""
+ },
+ {
+  "en": "below",
+  "note": "",
+  "el": "από κάτω",
+  "tr": "apó káto",
+  "forms": ""
+ },
+ {
+  "en": "above",
+  "note": "",
+  "el": "από πάνω",
+  "tr": "apó páno",
+  "forms": ""
+ },
+ {
+  "en": "beside",
+  "note": "",
+  "el": "δίπλα",
+  "tr": "dípla",
+  "forms": ""
+ },
+ {
+  "en": "front",
+  "note": "",
+  "el": "μπροστά",
+  "tr": "brostá",
+  "forms": ""
+ },
+ {
+  "en": "back",
+  "note": "position",
+  "el": "πίσω",
+  "tr": "píso",
+  "forms": ""
+ },
+ {
+  "en": "sweet",
+  "note": "",
+  "el": "γλυκός",
+  "tr": "glykós",
+  "forms": "γλυκιά, γλυκό, γλυκοί, γλυκές, γλυκά"
+ },
+ {
+  "en": "sour",
+  "note": "",
+  "el": "ξινός",
+  "tr": "xinós",
+  "forms": "ξινή, ξινό, ξινοί, ξινές, ξινά"
+ },
+ {
+  "en": "strange",
+  "note": "",
+  "el": "παράξενος",
+  "tr": "paráxenos",
+  "forms": "παράξενη, παράξενο, παράξενοι, παράξενες, παράξενα"
+ },
+ {
+  "en": "soft",
+  "note": "",
+  "el": "μαλακός",
+  "tr": "malakós",
+  "forms": "μαλακή, μαλακό, μαλακοί, μαλακές, μαλακά"
+ },
+ {
+  "en": "hard",
+  "note": "",
+  "el": "σκληρός",
+  "tr": "sklirós",
+  "forms": "σκληρή, σκληρό, σκληροί, σκληρές, σκληρά"
+ },
+ {
+  "en": "cute",
+  "note": "",
+  "el": "χαριτωμένος",
+  "tr": "charitoménos",
+  "forms": "χαριτωμένη, χαριτωμένο, χαριτωμένοι, χαριτωμένες, χαριτωμένα"
+ },
+ {
+  "en": "stupid",
+  "note": "",
+  "el": "χαζός",
+  "tr": "chazós",
+  "forms": "χαζή, χαζό, χαζοί, χαζές, χαζά"
+ },
+ {
+  "en": "crazy",
+  "note": "",
+  "el": "τρελός",
+  "tr": "trelós",
+  "forms": "τρελή, τρελό, τρελοί, τρελές, τρελά"
+ },
+ {
+  "en": "busy",
+  "note": "",
+  "el": "απασχολημένος",
+  "tr": "apascholiménos",
+  "forms": "απασχολημένη, απασχολημένο, απασχολημένοι, απασχολημένες, απασχολημένα"
+ },
+ {
+  "en": "tall",
+  "note": "",
+  "el": "ψηλός",
+  "tr": "psilós",
+  "forms": "ψηλή, ψηλό, ψηλοί, ψηλές, ψηλά"
+ },
+ {
+  "en": "short",
+  "note": "height",
+  "el": "κοντός",
+  "tr": "kontós",
+  "forms": "κοντή, κοντό, κοντοί, κοντές, κοντά"
+ },
+ {
+  "en": "worried",
+  "note": "",
+  "el": "ανήσυχος",
+  "tr": "anísychos",
+  "forms": "ανήσυχη, ανήσυχο, ανήσυχοι, ανήσυχες, ανήσυχα"
+ },
+ {
+  "en": "surprised",
+  "note": "",
+  "el": "έκπληκτος",
+  "tr": "ékpliktos",
+  "forms": "έκπληκτη, έκπληκτο, έκπληκτοι, έκπληκτες, έκπληκτα"
+ },
+ {
+  "en": "cool",
+  "note": "",
+  "el": "άνετος",
+  "tr": "ánetos",
+  "forms": "άνετη, άνετο, άνετοι, άνετες, άνετα"
+ },
+ {
+  "en": "well-behaved",
+  "note": "",
+  "el": "φρόνιμος",
+  "tr": "frónimos",
+  "forms": "φρόνιμη, φρόνιμο, φρόνιμοι, φρόνιμες, φρόνιμα"
+ },
+ {
+  "en": "evil",
+  "note": "",
+  "el": "κακός",
+  "tr": "kakós",
+  "forms": "κακή, κακό, κακοί, κακές, κακά"
+ },
+ {
+  "en": "clever",
+  "note": "",
+  "el": "έξυπνος",
+  "tr": "éxypnos",
+  "forms": "έξυπνη, έξυπνο, έξυπνοι, έξυπνες, έξυπνα"
+ },
+ {
+  "en": "cold",
+  "note": "adjective",
+  "el": "κρύος",
+  "tr": "krýos",
+  "forms": "κρύα, κρύο, κρύοι, κρύες, κρύα"
+ },
+ {
+  "en": "hot",
+  "note": "temperature",
+  "el": "ζεστός",
+  "tr": "zestós",
+  "forms": "ζεστή, ζεστό, ζεστοί, ζεστές, ζεστά"
+ },
+ {
+  "en": "head",
+  "note": "",
+  "el": "το κεφάλι",
+  "tr": "kefáli",
+  "forms": ""
+ },
+ {
+  "en": "nose",
+  "note": "",
+  "el": "η μύτη",
+  "tr": "mýti",
+  "forms": ""
+ },
+ {
+  "en": "hair",
+  "note": "",
+  "el": "η τρίχα",
+  "tr": "trícha",
+  "forms": ""
+ },
+ {
+  "en": "mouth",
+  "note": "",
+  "el": "το στόμα",
+  "tr": "stóma",
+  "forms": ""
+ },
+ {
+  "en": "ear",
+  "note": "",
+  "el": "το αυτί",
+  "tr": "aftí",
+  "forms": ""
+ },
+ {
+  "en": "eye",
+  "note": "",
+  "el": "το μάτι",
+  "tr": "máti",
+  "forms": ""
+ },
+ {
+  "en": "hand",
+  "note": "",
+  "el": "το χέρι",
+  "tr": "chéri",
+  "forms": ""
+ },
+ {
+  "en": "foot",
+  "note": "",
+  "el": "το πόδι",
+  "tr": "pódi",
+  "forms": ""
+ },
+ {
+  "en": "heart",
+  "note": "",
+  "el": "η καρδιά",
+  "tr": "kardiá",
+  "forms": ""
+ },
+ {
+  "en": "brain",
+  "note": "",
+  "el": "ο εγκέφαλος",
+  "tr": "enkéfalos",
+  "forms": ""
+ },
+ {
+  "en": "to pull",
+  "note": "... open",
+  "el": "τραβάω",
+  "tr": "traváo",
+  "forms": "τράβηξα, τραβιέμαι, τραβήχτηκα, τραβηγμένος"
+ },
+ {
+  "en": "to push",
+  "note": "... open",
+  "el": "σπρώχνω",
+  "tr": "spróchno",
+  "forms": "έσπρωξα, σπρώχνομαι, σπρώχτηκα, σπρωγμένος"
+ },
+ {
+  "en": "to press",
+  "note": "a button",
+  "el": "πιέζω",
+  "tr": "piézo",
+  "forms": "πίεσα, πιέζομαι, πιέστηκα, πιεσμένος"
+ },
+ {
+  "en": "to hit",
+  "note": "",
+  "el": "χτυπάω",
+  "tr": "chtypáo",
+  "forms": "χτύπησα, χτυπιέμαι, χτυπήθηκα, χτυπημένος"
+ },
+ {
+  "en": "to catch",
+  "note": "",
+  "el": "πιάνω",
+  "tr": "piáno",
+  "forms": "έπιασα, πιάνομαι, πιάστηκα, πιασμένος"
+ },
+ {
+  "en": "to fight",
+  "note": "",
+  "el": "παλεύω",
+  "tr": "palévo",
+  "forms": "πάλεψα, -, -, -"
+ },
+ {
+  "en": "to throw",
+  "note": "",
+  "el": "ρίχνω",
+  "tr": "ríchno",
+  "forms": "έριξα, ρίχνομαι, ρίχτηκα, ριγμένος"
+ },
+ {
+  "en": "to run",
+  "note": "",
+  "el": "τρέχω",
+  "tr": "trécho",
+  "forms": "έτρεξα, -, -, -"
+ },
+ {
+  "en": "to read",
+  "note": "",
+  "el": "διαβάζω",
+  "tr": "diavázo",
+  "forms": "διάβασα, διαβάζομαι, διαβάστηκα, διαβασμένος"
+ },
+ {
+  "en": "to write",
+  "note": "",
+  "el": "γράφω",
+  "tr": "gráfo",
+  "forms": "έγραψα, γράφομαι, γράφτηκα, γραμμένος"
+ },
+ {
+  "en": "to fix",
+  "note": "",
+  "el": "διορθώνω",
+  "tr": "diorthóno",
+  "forms": "διόρθωσα, διορθώνομαι, διορθώθηκα, διορθωμένος"
+ },
+ {
+  "en": "to count",
+  "note": "",
+  "el": "μετράω",
+  "tr": "metráo",
+  "forms": "μέτρησα, μετριέμαι, μετρήθηκα, μετρημένος"
+ },
+ {
+  "en": "to cut",
+  "note": "",
+  "el": "κόβω",
+  "tr": "kóvo",
+  "forms": "έκοψα, κόβομαι, κόπηκα, κομμένος"
+ },
+ {
+  "en": "to sell",
+  "note": "",
+  "el": "πουλάω",
+  "tr": "pouláo",
+  "forms": "πούλησα, πουλιέμαι, πουλήθηκα, πουλημένος"
+ },
+ {
+  "en": "to buy",
+  "note": "",
+  "el": "αγοράζω",
+  "tr": "agorázo",
+  "forms": "αγόρασα, αγοράζομαι, αγοράστηκα, αγορασμένος"
+ },
+ {
+  "en": "to pay",
+  "note": "",
+  "el": "πληρώνω",
+  "tr": "pliróno",
+  "forms": "πλήρωσα, πληρώνομαι, πληρώθηκα, πληρωμένος"
+ },
+ {
+  "en": "to study",
+  "note": "",
+  "el": "μελετάω",
+  "tr": "meletáo",
+  "forms": "μελέτησα, μελετιέμαι, μελετήθηκα, μελετημένος"
+ },
+ {
+  "en": "to dream",
+  "note": "",
+  "el": "ονειρεύομαι",
+  "tr": "oneirévomai",
+  "forms": "-, ονειρεύομαι, ονειρεύτηκα, ονειρεμένος"
+ },
+ {
+  "en": "to sleep",
+  "note": "",
+  "el": "κοιμάμαι",
+  "tr": "koimámai",
+  "forms": "-, κοιμάμαι, κοιμήθηκα, κοιμισμένος"
+ },
+ {
+  "en": "to play",
+  "note": "",
+  "el": "παίζω",
+  "tr": "paízo",
+  "forms": "έπαιξα, παίζομαι, παίχτηκα, παιγμένος"
+ },
+ {
+  "en": "to celebrate",
+  "note": "",
+  "el": "γιορτάζω",
+  "tr": "giortázo",
+  "forms": "γιόρτασα, γιορτάζομαι, γιορτάστηκα, γιορτασμένος"
+ },
+ {
+  "en": "to rest",
+  "note": "",
+  "el": "ξεκουράζομαι",
+  "tr": "xekourázomai",
+  "forms": "ξεκουράστηκα, ξεκουράζομαι, ξεκουράστηκα, -"
+ },
+ {
+  "en": "to enjoy",
+  "note": "",
+  "el": "απολαμβάνω",
+  "tr": "apolamváno",
+  "forms": "απόλαυσα, -, -, -"
+ },
+ {
+  "en": "to clean",
+  "note": "",
+  "el": "καθαρίζω",
+  "tr": "katharízo",
+  "forms": "καθάρισα, καθαρίζομαι, καθαρίστηκα, καθαρισμένος"
+ },
+ {
+  "en": "school",
+  "note": "",
+  "el": "το σχολείο",
+  "tr": "scholeío",
+  "forms": ""
+ },
+ {
+  "en": "house",
+  "note": "",
+  "el": "το σπίτι",
+  "tr": "spíti",
+  "forms": ""
+ },
+ {
+  "en": "door",
+  "note": "",
+  "el": "η πόρτα",
+  "tr": "pórta",
+  "forms": ""
+ },
+ {
+  "en": "husband",
+  "note": "",
+  "el": "ο σύζυγος",
+  "tr": "sýzygos",
+  "forms": ""
+ },
+ {
+  "en": "wife",
+  "note": "",
+  "el": "η σύζυγος",
+  "tr": "sýzygos",
+  "forms": ""
+ },
+ {
+  "en": "wedding",
+  "note": "",
+  "el": "ο γάμος",
+  "tr": "gámos",
+  "forms": ""
+ },
+ {
+  "en": "person",
+  "note": "",
+  "el": "ο άνθρωπος",
+  "tr": "ánthropos",
+  "forms": ""
+ },
+ {
+  "en": "car",
+  "note": "",
+  "el": "το αυτοκίνητο",
+  "tr": "aftokínito",
+  "forms": ""
+ },
+ {
+  "en": "home",
+  "note": "",
+  "el": "το σπίτι",
+  "tr": "spíti",
+  "forms": ""
+ },
+ {
+  "en": "city",
+  "note": "",
+  "el": "η πόλη",
+  "tr": "póli",
+  "forms": ""
+ },
+ {
+  "en": "number",
+  "note": "",
+  "el": "ο αριθμός",
+  "tr": "arithmós",
+  "forms": ""
+ },
+ {
+  "en": "21",
+  "note": "",
+  "el": "είκοσι ένα",
+  "tr": "eíkosi éna",
+  "forms": ""
+ },
+ {
+  "en": "22",
+  "note": "",
+  "el": "είκοσι δύο",
+  "tr": "eíkosi dýo",
+  "forms": ""
+ },
+ {
+  "en": "26",
+  "note": "",
+  "el": "είκοσι έξι",
+  "tr": "eíkosi éxi",
+  "forms": ""
+ },
+ {
+  "en": "30",
+  "note": "",
+  "el": "τριάντα",
+  "tr": "triánta",
+  "forms": ""
+ },
+ {
+  "en": "31",
+  "note": "",
+  "el": "τριάντα ένα",
+  "tr": "triánta éna",
+  "forms": ""
+ },
+ {
+  "en": "33",
+  "note": "",
+  "el": "τριάντα τρία",
+  "tr": "triánta tría",
+  "forms": ""
+ },
+ {
+  "en": "37",
+  "note": "",
+  "el": "τριάντα επτά",
+  "tr": "triánta eptá",
+  "forms": ""
+ },
+ {
+  "en": "40",
+  "note": "",
+  "el": "σαράντα",
+  "tr": "saránta",
+  "forms": ""
+ },
+ {
+  "en": "41",
+  "note": "",
+  "el": "σαράντα ένα",
+  "tr": "saránta éna",
+  "forms": ""
+ },
+ {
+  "en": "44",
+  "note": "",
+  "el": "σαράντα τέσσερα",
+  "tr": "saránta téssera",
+  "forms": ""
+ },
+ {
+  "en": "48",
+  "note": "",
+  "el": "σαράντα οκτώ",
+  "tr": "saránta októ",
+  "forms": ""
+ },
+ {
+  "en": "50",
+  "note": "",
+  "el": "πενήντα",
+  "tr": "penínta",
+  "forms": ""
+ },
+ {
+  "en": "51",
+  "note": "",
+  "el": "πενήντα ένα",
+  "tr": "penínta éna",
+  "forms": ""
+ },
+ {
+  "en": "55",
+  "note": "",
+  "el": "πενήντα πέντε",
+  "tr": "penínta pénte",
+  "forms": ""
+ },
+ {
+  "en": "59",
+  "note": "",
+  "el": "πενήντα εννέα",
+  "tr": "penínta ennéa",
+  "forms": ""
+ },
+ {
+  "en": "60",
+  "note": "",
+  "el": "εξήντα",
+  "tr": "exínta",
+  "forms": ""
+ },
+ {
+  "en": "61",
+  "note": "",
+  "el": "εξήντα ένα",
+  "tr": "exínta éna",
+  "forms": ""
+ },
+ {
+  "en": "62",
+  "note": "",
+  "el": "εξήντα δύο",
+  "tr": "exínta dýo",
+  "forms": ""
+ },
+ {
+  "en": "66",
+  "note": "",
+  "el": "εξήντα έξι",
+  "tr": "exínta éxi",
+  "forms": ""
+ },
+ {
+  "en": "70",
+  "note": "",
+  "el": "εβδομήντα",
+  "tr": "evdomínta",
+  "forms": ""
+ },
+ {
+  "en": "71",
+  "note": "",
+  "el": "εβδομήντα ένα",
+  "tr": "evdomínta éna",
+  "forms": ""
+ },
+ {
+  "en": "73",
+  "note": "",
+  "el": "εβδομήντα τρία",
+  "tr": "evdomínta tría",
+  "forms": ""
+ },
+ {
+  "en": "77",
+  "note": "",
+  "el": "εβδομήντα επτά",
+  "tr": "evdomínta eptá",
+  "forms": ""
+ },
+ {
+  "en": "80",
+  "note": "",
+  "el": "ογδόντα",
+  "tr": "ogdónta",
+  "forms": ""
+ },
+ {
+  "en": "81",
+  "note": "",
+  "el": "ογδόντα ένα",
+  "tr": "ogdónta éna",
+  "forms": ""
+ },
+ {
+  "en": "84",
+  "note": "",
+  "el": "ογδόντα τέσσερα",
+  "tr": "ogdónta téssera",
+  "forms": ""
+ },
+ {
+  "en": "88",
+  "note": "",
+  "el": "ογδόντα οκτώ",
+  "tr": "ogdónta októ",
+  "forms": ""
+ },
+ {
+  "en": "90",
+  "note": "",
+  "el": "ενενήντα",
+  "tr": "enenínta",
+  "forms": ""
+ },
+ {
+  "en": "91",
+  "note": "",
+  "el": "ενενήντα ένα",
+  "tr": "enenínta éna",
+  "forms": ""
+ },
+ {
+  "en": "95",
+  "note": "",
+  "el": "ενενήντα πέντε",
+  "tr": "enenínta pénte",
+  "forms": ""
+ },
+ {
+  "en": "99",
+  "note": "",
+  "el": "ενενήντα εννιά",
+  "tr": "enenínta enniá",
+  "forms": ""
+ },
+ {
+  "en": "100",
+  "note": "",
+  "el": "εκατό",
+  "tr": "ekató",
+  "forms": ""
+ },
+ {
+  "en": "1000",
+  "note": "",
+  "el": "χίλια",
+  "tr": "chília",
+  "forms": ""
+ },
+ {
+  "en": "10.000",
+  "note": "",
+  "el": "δέκα χιλιάδες",
+  "tr": "déka chiliádes",
+  "forms": ""
+ },
+ {
+  "en": "100.000",
+  "note": "",
+  "el": "εκατό χιλιάδες",
+  "tr": "ekató chiliádes",
+  "forms": ""
+ },
+ {
+  "en": "1.000.000",
+  "note": "",
+  "el": "ένα εκατομμύριο",
+  "tr": "éna ekatommýrio",
+  "forms": ""
+ },
+ {
+  "en": "my dog",
+  "note": "",
+  "el": "ο σκύλος μου",
+  "tr": "o skýlos mou",
+  "forms": ""
+ },
+ {
+  "en": "your cat",
+  "note": "",
+  "el": "η γάτα σου",
+  "tr": "i gáta sou",
+  "forms": ""
+ },
+ {
+  "en": "her dress",
+  "note": "",
+  "el": "το φόρεμά της",
+  "tr": "to fóremá tis",
+  "forms": ""
+ },
+ {
+  "en": "his car",
+  "note": "",
+  "el": "το αυτοκίνητό του",
+  "tr": "to aftokínitó tou",
+  "forms": ""
+ },
+ {
+  "en": "its ball",
+  "note": "",
+  "el": "η μπάλα του",
+  "tr": "i bála tou",
+  "forms": ""
+ },
+ {
+  "en": "our home",
+  "note": "",
+  "el": "το σπίτι μας",
+  "tr": "to spíti mas",
+  "forms": ""
+ },
+ {
+  "en": "your team",
+  "note": "",
+  "el": "η ομάδα σας",
+  "tr": "i omáda sas",
+  "forms": ""
+ },
+ {
+  "en": "their company",
+  "note": "",
+  "el": "η εταιρία τους",
+  "tr": "i etairía tous",
+  "forms": ""
+ },
+ {
+  "en": "everybody",
+  "note": "",
+  "el": "όλοι",
+  "tr": "óloi",
+  "forms": ""
+ },
+ {
+  "en": "together",
+  "note": "",
+  "el": "μαζί",
+  "tr": "mazí",
+  "forms": ""
+ },
+ {
+  "en": "other",
+  "note": "",
+  "el": "άλλα",
+  "tr": "álla",
+  "forms": ""
+ },
+ {
+  "en": "doesn't matter",
+  "note": "",
+  "el": "δεν έχει σημασία",
+  "tr": "den échei simasía",
+  "forms": ""
+ },
+ {
+  "en": "cheers",
+  "note": "",
+  "el": "εις υγείαν",
+  "tr": "eis ygeían",
+  "forms": ""
+ },
+ {
+  "en": "relax",
+  "note": "",
+  "el": "χαλάρωσε",
+  "tr": "chalárose",
+  "forms": ""
+ },
+ {
+  "en": "I agree",
+  "note": "",
+  "el": "συμφωνώ",
+  "tr": "symfonó",
+  "forms": ""
+ },
+ {
+  "en": "welcome",
+  "note": "",
+  "el": "καλώς ήρθατε",
+  "tr": "kalós írthate",
+  "forms": ""
+ },
+ {
+  "en": "no worries",
+  "note": "",
+  "el": "μην ανησυχείς",
+  "tr": "min anisycheís",
+  "forms": ""
+ },
+ {
+  "en": "turn right",
+  "note": "",
+  "el": "στρίψε δεξιά",
+  "tr": "strípse dexiá",
+  "forms": ""
+ },
+ {
+  "en": "turn left",
+  "note": "",
+  "el": "στρίψε αριστερά",
+  "tr": "strípse aristerá",
+  "forms": ""
+ },
+ {
+  "en": "go straight",
+  "note": "",
+  "el": "πήγαινε ευθεία",
+  "tr": "pígaine eftheía",
+  "forms": ""
+ },
+ {
+  "en": "Come with me",
+  "note": "",
+  "el": "έλα μαζί μου",
+  "tr": "éla mazí mou",
+  "forms": ""
+ },
+ {
+  "en": "egg",
+  "note": "",
+  "el": "το αυγό",
+  "tr": "avgó",
+  "forms": ""
+ },
+ {
+  "en": "cheese",
+  "note": "",
+  "el": "το τυρί",
+  "tr": "tyrí",
+  "forms": ""
+ },
+ {
+  "en": "milk",
+  "note": "",
+  "el": "το γάλα",
+  "tr": "gála",
+  "forms": ""
+ },
+ {
+  "en": "fish",
+  "note": "to eat",
+  "el": "το ψάρι",
+  "tr": "psári",
+  "forms": ""
+ },
+ {
+  "en": "meat",
+  "note": "",
+  "el": "το κρέας",
+  "tr": "kréas",
+  "forms": ""
+ },
+ {
+  "en": "vegetable",
+  "note": "",
+  "el": "το λαχανικό",
+  "tr": "lachanikó",
+  "forms": ""
+ },
+ {
+  "en": "fruit",
+  "note": "",
+  "el": "τα φρούτα",
+  "tr": "froúta",
+  "forms": ""
+ },
+ {
+  "en": "bone",
+  "note": "food",
+  "el": "το οστό",
+  "tr": "ostó",
+  "forms": ""
+ },
+ {
+  "en": "oil",
+  "note": "",
+  "el": "το λάδι",
+  "tr": "ládi",
+  "forms": ""
+ },
+ {
+  "en": "bread",
+  "note": "",
+  "el": "το ψωμί",
+  "tr": "psomí",
+  "forms": ""
+ },
+ {
+  "en": "sugar",
+  "note": "",
+  "el": "η ζάχαρη",
+  "tr": "záchari",
+  "forms": ""
+ },
+ {
+  "en": "chocolate",
+  "note": "",
+  "el": "η σοκολάτα",
+  "tr": "sokoláta",
+  "forms": ""
+ },
+ {
+  "en": "candy",
+  "note": "",
+  "el": "η καραμέλα",
+  "tr": "karaméla",
+  "forms": ""
+ },
+ {
+  "en": "cake",
+  "note": "",
+  "el": "το κέικ",
+  "tr": "kéik",
+  "forms": ""
+ },
+ {
+  "en": "drink",
+  "note": "",
+  "el": "το ποτό",
+  "tr": "potó",
+  "forms": ""
+ },
+ {
+  "en": "water",
+  "note": "",
+  "el": "το νερό",
+  "tr": "neró",
+  "forms": ""
+ },
+ {
+  "en": "soda",
+  "note": "",
+  "el": "η σόδα",
+  "tr": "sóda",
+  "forms": ""
+ },
+ {
+  "en": "coffee",
+  "note": "",
+  "el": "ο καφές",
+  "tr": "kafés",
+  "forms": ""
+ },
+ {
+  "en": "tea",
+  "note": "",
+  "el": "το τσάι",
+  "tr": "tsái",
+  "forms": ""
+ },
+ {
+  "en": "beer",
+  "note": "",
+  "el": "η μπύρα",
+  "tr": "býra",
+  "forms": ""
+ },
+ {
+  "en": "wine",
+  "note": "",
+  "el": "το κρασί",
+  "tr": "krasí",
+  "forms": ""
+ },
+ {
+  "en": "salad",
+  "note": "",
+  "el": "η σαλάτα",
+  "tr": "saláta",
+  "forms": ""
+ },
+ {
+  "en": "soup",
+  "note": "",
+  "el": "η σούπα",
+  "tr": "soúpa",
+  "forms": ""
+ },
+ {
+  "en": "dessert",
+  "note": "",
+  "el": "το επιδόρπιο",
+  "tr": "epidórpio",
+  "forms": ""
+ },
+ {
+  "en": "breakfast",
+  "note": "",
+  "el": "το πρωινό",
+  "tr": "proinó",
+  "forms": ""
+ },
+ {
+  "en": "lunch",
+  "note": "",
+  "el": "το μεσημεριανό",
+  "tr": "mesimerianó",
+  "forms": ""
+ },
+ {
+  "en": "dinner",
+  "note": "",
+  "el": "το δείπνο",
+  "tr": "deípno",
+  "forms": ""
+ },
+ {
+  "en": "pizza",
+  "note": "",
+  "el": "η πίτσα",
+  "tr": "pítsa",
+  "forms": ""
+ },
+ {
+  "en": "bus",
+  "note": "",
+  "el": "το λεωφορείο",
+  "tr": "leoforeío",
+  "forms": ""
+ },
+ {
+  "en": "train",
+  "note": "",
+  "el": "το τρένο",
+  "tr": "tréno",
+  "forms": ""
+ },
+ {
+  "en": "train station",
+  "note": "",
+  "el": "ο σιδηροδρομικός σταθμός",
+  "tr": "sidirodromikós stathmós",
+  "forms": ""
+ },
+ {
+  "en": "bus stop",
+  "note": "",
+  "el": "η στάση λεωφορείου",
+  "tr": "stási leoforeíou",
+  "forms": ""
+ },
+ {
+  "en": "plane",
+  "note": "",
+  "el": "το αεροπλάνο",
+  "tr": "aeropláno",
+  "forms": ""
+ },
+ {
+  "en": "ship",
+  "note": "",
+  "el": "το πλοίο",
+  "tr": "ploío",
+  "forms": ""
+ },
+ {
+  "en": "lorry",
+  "note": "",
+  "el": "το φορτηγό",
+  "tr": "fortigó",
+  "forms": ""
+ },
+ {
+  "en": "bicycle",
+  "note": "",
+  "el": "το ποδήλατο",
+  "tr": "podílato",
+  "forms": ""
+ },
+ {
+  "en": "motorcycle",
+  "note": "",
+  "el": "η μοτοσυκλέτα",
+  "tr": "motosykléta",
+  "forms": ""
+ },
+ {
+  "en": "taxi",
+  "note": "",
+  "el": "το ταξί",
+  "tr": "taxí",
+  "forms": ""
+ },
+ {
+  "en": "traﬃc light",
+  "note": "",
+  "el": "το φανάρι",
+  "tr": "fanári",
+  "forms": ""
+ },
+ {
+  "en": "car park",
+  "note": "",
+  "el": "ο χώρος στάθμευσης",
+  "tr": "chóros státhmefsis",
+  "forms": ""
+ },
+ {
+  "en": "road",
+  "note": "",
+  "el": "ο δρόμος",
+  "tr": "drómos",
+  "forms": ""
+ },
+ {
+  "en": "clothing",
+  "note": "",
+  "el": "το ρούχο",
+  "tr": "roúcho",
+  "forms": ""
+ },
+ {
+  "en": "shoe",
+  "note": "",
+  "el": "το παπούτσι",
+  "tr": "papoútsi",
+  "forms": ""
+ },
+ {
+  "en": "coat",
+  "note": "",
+  "el": "το παλτό",
+  "tr": "paltó",
+  "forms": ""
+ },
+ {
+  "en": "sweater",
+  "note": "",
+  "el": "το φούτερ",
+  "tr": "foúter",
+  "forms": ""
+ },
+ {
+  "en": "shirt",
+  "note": "",
+  "el": "το πουκάμισο",
+  "tr": "poukámiso",
+  "forms": ""
+ },
+ {
+  "en": "jacket",
+  "note": "",
+  "el": "το τζάκετ",
+  "tr": "tzáket",
+  "forms": ""
+ },
+ {
+  "en": "suit",
+  "note": "",
+  "el": "το κοστούμι",
+  "tr": "kostoúmi",
+  "forms": ""
+ },
+ {
+  "en": "trousers",
+  "note": "",
+  "el": "το παντελόνι",
+  "tr": "pantelóni",
+  "forms": ""
+ },
+ {
+  "en": "dress",
+  "note": "",
+  "el": "το φόρεμα",
+  "tr": "fórema",
+  "forms": ""
+ },
+ {
+  "en": "T-shirt",
+  "note": "",
+  "el": "η κοντομάνικη μπλούζα",
+  "tr": "kontomániki bloúza",
+  "forms": ""
+ },
+ {
+  "en": "sock",
+  "note": "",
+  "el": "η κάλτσα",
+  "tr": "káltsa",
+  "forms": ""
+ },
+ {
+  "en": "bra",
+  "note": "",
+  "el": "το σουτιέν",
+  "tr": "soutién",
+  "forms": ""
+ },
+ {
+  "en": "underpants",
+  "note": "",
+  "el": "το σώβρακο",
+  "tr": "sóvrako",
+  "forms": ""
+ },
+ {
+  "en": "glasses",
+  "note": "",
+  "el": "τα γυαλιά",
+  "tr": "gyaliá",
+  "forms": ""
+ },
+ {
+  "en": "handbag",
+  "note": "",
+  "el": "η τσάντα",
+  "tr": "tsánta",
+  "forms": ""
+ },
+ {
+  "en": "purse",
+  "note": "",
+  "el": "το τσαντάκι",
+  "tr": "tsantáki",
+  "forms": ""
+ },
+ {
+  "en": "wallet",
+  "note": "",
+  "el": "το πορτοφόλι",
+  "tr": "portofóli",
+  "forms": ""
+ },
+ {
+  "en": "ring",
+  "note": "",
+  "el": "το δαχτυλίδι",
+  "tr": "dachtylídi",
+  "forms": ""
+ },
+ {
+  "en": "hat",
+  "note": "",
+  "el": "το καπέλο",
+  "tr": "kapélo",
+  "forms": ""
+ },
+ {
+  "en": "watch",
+  "note": "",
+  "el": "το ρολόι",
+  "tr": "rolói",
+  "forms": ""
+ },
+ {
+  "en": "pocket",
+  "note": "",
+  "el": "η τσέπη",
+  "tr": "tsépi",
+  "forms": ""
+ },
+ {
+  "en": "What's your name?",
+  "note": "",
+  "el": "Πώς σε λένε;",
+  "tr": "Pós se léne?",
+  "forms": ""
+ },
+ {
+  "en": "My name is David",
+  "note": "",
+  "el": "Το όνομά μου είναι Ντέιβιντ",
+  "tr": "To ónomá mou eínai Ntéivint",
+  "forms": ""
+ },
+ {
+  "en": "I'm 22 years old",
+  "note": "",
+  "el": "Είμαι 22 χρονών",
+  "tr": "Eímai 22 chronón",
+  "forms": ""
+ },
+ {
+  "en": "How are you?",
+  "note": "",
+  "el": "Τί κάνεις;",
+  "tr": "Tí káneis?",
+  "forms": ""
+ },
+ {
+  "en": "Are you ok?",
+  "note": "",
+  "el": "Είσαι καλά;",
+  "tr": "Eísai kalá?",
+  "forms": ""
+ },
+ {
+  "en": "Where is the toilet?",
+  "note": "",
+  "el": "Πού είναι η τουαλέτα;",
+  "tr": "Poú eínai i toualéta?",
+  "forms": ""
+ },
+ {
+  "en": "I miss you",
+  "note": "",
+  "el": "μου λείπεις",
+  "tr": "mou leípeis",
+  "forms": ""
+ },
+ {
+  "en": "spring",
+  "note": "",
+  "el": "η άνοιξη",
+  "tr": "ánoixi",
+  "forms": ""
+ },
+ {
+  "en": "summer",
+  "note": "",
+  "el": "το καλοκαίρι",
+  "tr": "kalokaíri",
+  "forms": ""
+ },
+ {
+  "en": "autumn",
+  "note": "",
+  "el": "το φθινόπωρο",
+  "tr": "fthinóporo",
+  "forms": ""
+ },
+ {
+  "en": "winter",
+  "note": "",
+  "el": "ο χειμώνας",
+  "tr": "cheimónas",
+  "forms": ""
+ },
+ {
+  "en": "January",
+  "note": "",
+  "el": "ο Ιανουάριος",
+  "tr": "Ianouários",
+  "forms": ""
+ },
+ {
+  "en": "February",
+  "note": "",
+  "el": "ο Φεβρουάριος",
+  "tr": "Fevrouários",
+  "forms": ""
+ },
+ {
+  "en": "March",
+  "note": "",
+  "el": "ο Μάρτιος",
+  "tr": "Mártios",
+  "forms": ""
+ },
+ {
+  "en": "April",
+  "note": "",
+  "el": "ο Απρίλιος",
+  "tr": "Aprílios",
+  "forms": ""
+ },
+ {
+  "en": "May",
+  "note": "",
+  "el": "ο Μάιος",
+  "tr": "Máios",
+  "forms": ""
+ },
+ {
+  "en": "June",
+  "note": "",
+  "el": "ο Ιούνιος",
+  "tr": "Ioúnios",
+  "forms": ""
+ },
+ {
+  "en": "July",
+  "note": "",
+  "el": "ο Ιούλιος",
+  "tr": "Ioúlios",
+  "forms": ""
+ },
+ {
+  "en": "August",
+  "note": "",
+  "el": "ο Αύγουστος",
+  "tr": "Ávgoustos",
+  "forms": ""
+ },
+ {
+  "en": "September",
+  "note": "",
+  "el": "ο Σεπτέμβριος",
+  "tr": "Septémvrios",
+  "forms": ""
+ },
+ {
+  "en": "October",
+  "note": "",
+  "el": "ο Οκτώβριος",
+  "tr": "Októvrios",
+  "forms": ""
+ },
+ {
+  "en": "November",
+  "note": "",
+  "el": "ο Νοέμβριος",
+  "tr": "Noémvrios",
+  "forms": ""
+ },
+ {
+  "en": "December",
+  "note": "",
+  "el": "ο Δεκέμβριος",
+  "tr": "Dekémvrios",
+  "forms": ""
+ },
+ {
+  "en": "shopping",
+  "note": "",
+  "el": "τα ψώνια",
+  "tr": "psónia",
+  "forms": ""
+ },
+ {
+  "en": "bill",
+  "note": "",
+  "el": "ο λογαριασμός",
+  "tr": "logariasmós",
+  "forms": ""
+ },
+ {
+  "en": "market",
+  "note": "",
+  "el": "η αγορά",
+  "tr": "agorá",
+  "forms": ""
+ },
+ {
+  "en": "supermarket",
+  "note": "",
+  "el": "το σούπερ μάρκετ",
+  "tr": "soúper márket",
+  "forms": ""
+ },
+ {
+  "en": "building",
+  "note": "",
+  "el": "το κτίριο",
+  "tr": "ktírio",
+  "forms": ""
+ },
+ {
+  "en": "apartment",
+  "note": "",
+  "el": "το διαμέρισμα",
+  "tr": "diamérisma",
+  "forms": ""
+ },
+ {
+  "en": "university",
+  "note": "",
+  "el": "το πανεπιστήμιο",
+  "tr": "panepistímio",
+  "forms": ""
+ },
+ {
+  "en": "farm",
+  "note": "",
+  "el": "το αγρόκτημα",
+  "tr": "agróktima",
+  "forms": ""
+ },
+ {
+  "en": "church",
+  "note": "",
+  "el": "η εκκλησία",
+  "tr": "ekklisía",
+  "forms": ""
+ },
+ {
+  "en": "restaurant",
+  "note": "",
+  "el": "το εστιατόριο",
+  "tr": "estiatório",
+  "forms": ""
+ },
+ {
+  "en": "bar",
+  "note": "",
+  "el": "το μπαρ",
+  "tr": "bar",
+  "forms": ""
+ },
+ {
+  "en": "gym",
+  "note": "",
+  "el": "το γυμναστήριο",
+  "tr": "gymnastírio",
+  "forms": ""
+ },
+ {
+  "en": "park",
+  "note": "",
+  "el": "το πάρκο",
+  "tr": "párko",
+  "forms": ""
+ },
+ {
+  "en": "toilet",
+  "note": "public",
+  "el": "η τουαλέτα",
+  "tr": "toualéta",
+  "forms": ""
+ },
+ {
+  "en": "map",
+  "note": "",
+  "el": "ο χάρτης",
+  "tr": "chártis",
+  "forms": ""
+ },
+ {
+  "en": "ambulance",
+  "note": "",
+  "el": "το ασθενοφόρο",
+  "tr": "asthenofóro",
+  "forms": ""
+ },
+ {
+  "en": "police",
+  "note": "",
+  "el": "η αστυνομία",
+  "tr": "astynomía",
+  "forms": ""
+ },
+ {
+  "en": "gun",
+  "note": "",
+  "el": "το όπλο",
+  "tr": "óplo",
+  "forms": ""
+ },
+ {
+  "en": "firefighters",
+  "note": "",
+  "el": "η πυροσβεστική",
+  "tr": "pyrosvestikí",
+  "forms": ""
+ },
+ {
+  "en": "country",
+  "note": "",
+  "el": "η χώρα",
+  "tr": "chóra",
+  "forms": ""
+ },
+ {
+  "en": "suburb",
+  "note": "",
+  "el": "το προάστιο",
+  "tr": "proástio",
+  "forms": ""
+ },
+ {
+  "en": "village",
+  "note": "",
+  "el": "το χωριό",
+  "tr": "chorió",
+  "forms": ""
+ },
+ {
+  "en": "health",
+  "note": "",
+  "el": "η υγεία",
+  "tr": "ygeía",
+  "forms": ""
+ },
+ {
+  "en": "medicine",
+  "note": "",
+  "el": "το φάρμακο",
+  "tr": "fármako",
+  "forms": ""
+ },
+ {
+  "en": "accident",
+  "note": "",
+  "el": "το ατύχημα",
+  "tr": "atýchima",
+  "forms": ""
+ },
+ {
+  "en": "patient",
+  "note": "",
+  "el": "ο ασθενής",
+  "tr": "asthenís",
+  "forms": ""
+ },
+ {
+  "en": "surgery",
+  "note": "",
+  "el": "το χειρουργείο",
+  "tr": "cheirourgeío",
+  "forms": ""
+ },
+ {
+  "en": "pill",
+  "note": "",
+  "el": "το χάπι",
+  "tr": "chápi",
+  "forms": ""
+ },
+ {
+  "en": "fever",
+  "note": "",
+  "el": "ο πυρετός",
+  "tr": "pyretós",
+  "forms": ""
+ },
+ {
+  "en": "cold",
+  "note": "sickness",
+  "el": "το κρυολόγημα",
+  "tr": "kryológima",
+  "forms": ""
+ },
+ {
+  "en": "wound",
+  "note": "",
+  "el": "η πληγή",
+  "tr": "pligí",
+  "forms": ""
+ },
+ {
+  "en": "appointment",
+  "note": "",
+  "el": "το ραντεβού",
+  "tr": "rantevoú",
+  "forms": ""
+ },
+ {
+  "en": "cough",
+  "note": "",
+  "el": "ο βήχας",
+  "tr": "víchas",
+  "forms": ""
+ },
+ {
+  "en": "neck",
+  "note": "",
+  "el": "ο λαιμός",
+  "tr": "laimós",
+  "forms": ""
+ },
+ {
+  "en": "bottom",
+  "note": "",
+  "el": "ο πισινός",
+  "tr": "pisinós",
+  "forms": ""
+ },
+ {
+  "en": "shoulder",
+  "note": "",
+  "el": "ο ώμος",
+  "tr": "ómos",
+  "forms": ""
+ },
+ {
+  "en": "knee",
+  "note": "",
+  "el": "το γόνατο",
+  "tr": "gónato",
+  "forms": ""
+ },
+ {
+  "en": "leg",
+  "note": "",
+  "el": "το πόδι",
+  "tr": "pódi",
+  "forms": ""
+ },
+ {
+  "en": "arm",
+  "note": "",
+  "el": "το χέρι",
+  "tr": "chéri",
+  "forms": ""
+ },
+ {
+  "en": "belly",
+  "note": "",
+  "el": "η κοιλιά",
+  "tr": "koiliá",
+  "forms": ""
+ },
+ {
+  "en": "bosom",
+  "note": "",
+  "el": "το στήθος",
+  "tr": "stíthos",
+  "forms": ""
+ },
+ {
+  "en": "back",
+  "note": "part of body",
+  "el": "η πλάτη",
+  "tr": "pláti",
+  "forms": ""
+ },
+ {
+  "en": "tooth",
+  "note": "",
+  "el": "το δόντι",
+  "tr": "dónti",
+  "forms": ""
+ },
+ {
+  "en": "tongue",
+  "note": "",
+  "el": "η γλώσσα",
+  "tr": "glóssa",
+  "forms": ""
+ },
+ {
+  "en": "lip",
+  "note": "",
+  "el": "το χείλος",
+  "tr": "cheílos",
+  "forms": ""
+ },
+ {
+  "en": "finger",
+  "note": "",
+  "el": "το δάχτυλο",
+  "tr": "dáchtylo",
+  "forms": ""
+ },
+ {
+  "en": "toe",
+  "note": "",
+  "el": "το δάχτυλο του ποδιού",
+  "tr": "dáchtylo tou podioú",
+  "forms": ""
+ },
+ {
+  "en": "stomach",
+  "note": "",
+  "el": "το στομάχι",
+  "tr": "stomáchi",
+  "forms": ""
+ },
+ {
+  "en": "lung",
+  "note": "",
+  "el": "ο πνεύμονας",
+  "tr": "pnévmonas",
+  "forms": ""
+ },
+ {
+  "en": "liver",
+  "note": "",
+  "el": "το συκώτι",
+  "tr": "sykóti",
+  "forms": ""
+ },
+ {
+  "en": "nerve",
+  "note": "",
+  "el": "το νεύρο",
+  "tr": "névro",
+  "forms": ""
+ },
+ {
+  "en": "kidney",
+  "note": "",
+  "el": "ο νεφρός",
+  "tr": "nefrós",
+  "forms": ""
+ },
+ {
+  "en": "intestine",
+  "note": "",
+  "el": "το έντερο",
+  "tr": "éntero",
+  "forms": ""
+ },
+ {
+  "en": "colour",
+  "note": "",
+  "el": "το χρώμα",
+  "tr": "chróma",
+  "forms": ""
+ },
+ {
+  "en": "orange",
+  "note": "colour",
+  "el": "πορτοκάλι",
+  "tr": "portokáli",
+  "forms": ""
+ },
+ {
+  "en": "grey",
+  "note": "",
+  "el": "γκρί",
+  "tr": "nkrí",
+  "forms": ""
+ },
+ {
+  "en": "brown",
+  "note": "",
+  "el": "καφέ",
+  "tr": "kafé",
+  "forms": ""
+ },
+ {
+  "en": "pink",
+  "note": "",
+  "el": "ροζ",
+  "tr": "roz",
+  "forms": ""
+ },
+ {
+  "en": "boring",
+  "note": "",
+  "el": "βαρετός",
+  "tr": "varetós",
+  "forms": "βαρετή, βαρετό, βαρετοί, βαρετές, βαρετά"
+ },
+ {
+  "en": "heavy",
+  "note": "",
+  "el": "βαρύς",
+  "tr": "varýs",
+  "forms": "βαριά, βαρύ, βαριοί, βαριές, βαριά"
+ },
+ {
+  "en": "light",
+  "note": "weight",
+  "el": "ελαφρύς",
+  "tr": "elafrýs",
+  "forms": "ελαφριά, ελαφρύ, ελαφριοί, ελαφριές, ελαφριά"
+ },
+ {
+  "en": "lonely",
+  "note": "",
+  "el": "μοναχικός",
+  "tr": "monachikós",
+  "forms": "μοναχική, μοναχικό, μοναχικοί, μοναχικές, μοναχικά"
+ },
+ {
+  "en": "hungry",
+  "note": "",
+  "el": "πεινασμένος",
+  "tr": "peinasménos",
+  "forms": "πεινασμένη, πεινασμένο, πεινασμένοι, πεινασμένες, πεινασμένα"
+ },
+ {
+  "en": "thirsty",
+  "note": "",
+  "el": "διψασμένος",
+  "tr": "dipsasménos",
+  "forms": "διψασμένη, διψασμένο, διψασμένοι, διψασμένες, διψασμένα"
+ },
+ {
+  "en": "sad",
+  "note": "",
+  "el": "λυπημένος",
+  "tr": "lypiménos",
+  "forms": "λυπημένη, λυπημένο, λυπημένοι, λυπημένες, λυπημένα"
+ },
+ {
+  "en": "steep",
+  "note": "",
+  "el": "απότομος",
+  "tr": "apótomos",
+  "forms": "απότομη, απότομο, απότομοι, απότομες, απότομα"
+ },
+ {
+  "en": "flat",
+  "note": "",
+  "el": "επίπεδος",
+  "tr": "epípedos",
+  "forms": "επίπεδη, επίπεδο, επίπεδοι, επίπεδες, επίπεδα"
+ },
+ {
+  "en": "round",
+  "note": "",
+  "el": "στρογγυλός",
+  "tr": "strongylós",
+  "forms": "στρογγυλή, στρογγυλό, στρογγυλοί, στρογγυλές, στρογγυλά"
+ },
+ {
+  "en": "square",
+  "note": "adjective",
+  "el": "τετράγωνος",
+  "tr": "tetrágonos",
+  "forms": "τετράγωνη, τετράγωνο, τετράγωνοι, τετράγωνες, τετράγωνα"
+ },
+ {
+  "en": "narrow",
+  "note": "",
+  "el": "στενός",
+  "tr": "stenós",
+  "forms": "στενή, στενό, στενοί, στενές, στενά"
+ },
+ {
+  "en": "broad",
+  "note": "",
+  "el": "ευρύς",
+  "tr": "evrýs",
+  "forms": "ευρεία, ευρύ, ευρείς, ευρείες, ευρέα"
+ },
+ {
+  "en": "deep",
+  "note": "",
+  "el": "βαθύς",
+  "tr": "vathýs",
+  "forms": "βαθιά, βαθύ, βαθείς, βαθιές, βαθιά"
+ },
+ {
+  "en": "shallow",
+  "note": "",
+  "el": "ρηχός",
+  "tr": "richós",
+  "forms": "ρηχή, ρηχό, ρηχοί, ρηχές, ρηχά"
+ },
+ {
+  "en": "huge",
+  "note": "",
+  "el": "τεράστιος",
+  "tr": "terástios",
+  "forms": "τεράστια, τεράστιο, τεράστιοι, τεράστιες, τεράστια"
+ },
+ {
+  "en": "north",
+  "note": "",
+  "el": "βόρεια",
+  "tr": "vóreia",
+  "forms": ""
+ },
+ {
+  "en": "east",
+  "note": "",
+  "el": "ανατολικά",
+  "tr": "anatoliká",
+  "forms": ""
+ },
+ {
+  "en": "south",
+  "note": "",
+  "el": "νότια",
+  "tr": "nótia",
+  "forms": ""
+ },
+ {
+  "en": "west",
+  "note": "",
+  "el": "δυτικά",
+  "tr": "dytiká",
+  "forms": ""
+ },
+ {
+  "en": "dirty",
+  "note": "",
+  "el": "βρώμικος",
+  "tr": "vrómikos",
+  "forms": "βρώμικη, βρώμικο, βρώμικοι, βρώμικες, βρώμικα"
+ },
+ {
+  "en": "clean",
+  "note": "",
+  "el": "καθαρός",
+  "tr": "katharós",
+  "forms": "καθαρή, καθαρό, καθαροί, καθαρές, καθαρά"
+ },
+ {
+  "en": "full",
+  "note": "not empty",
+  "el": "γεμάτος",
+  "tr": "gemátos",
+  "forms": "γεμάτη, γεμάτο, γεμάτοι, γεμάτες, γεμάτα"
+ },
+ {
+  "en": "empty",
+  "note": "",
+  "el": "άδειος",
+  "tr": "ádeios",
+  "forms": "άδεια, άδειο, άδειοι, άδειες, άδεια"
+ },
+ {
+  "en": "expensive",
+  "note": "",
+  "el": "ακριβός",
+  "tr": "akrivós",
+  "forms": "ακριβή, ακριβό, ακριβοί, ακριβές, ακριβά"
+ },
+ {
+  "en": "cheap",
+  "note": "",
+  "el": "φθηνός",
+  "tr": "fthinós",
+  "forms": "φθηνή, φθηνό, φθηνοί, φθηνές, φθηνά"
+ },
+ {
+  "en": "dark",
+  "note": "",
+  "el": "σκοτεινός",
+  "tr": "skoteinós",
+  "forms": "σκοτεινή, σκοτεινό, σκοτεινοί, σκοτεινές, σκοτεινά"
+ },
+ {
+  "en": "light",
+  "note": "colour",
+  "el": "φωτεινός",
+  "tr": "foteinós",
+  "forms": "φωτεινή, φωτεινό, φωτεινοί, φωτεινές, φωτεινά"
+ },
+ {
+  "en": "sexy",
+  "note": "",
+  "el": "σέξι",
+  "tr": "séxi",
+  "forms": "σέξι, σέξι, σέξι, σέξι, σέξι"
+ },
+ {
+  "en": "lazy",
+  "note": "",
+  "el": "τεμπέλης",
+  "tr": "tempélis",
+  "forms": "τεμπέλα, τεμπέλικο, τεμπέληδες, τεμπέλες, τεμπέλικα"
+ },
+ {
+  "en": "brave",
+  "note": "",
+  "el": "γενναίος",
+  "tr": "gennaíos",
+  "forms": "γενναία, γενναίο, γενναίοι, γενναίες, γενναία"
+ },
+ {
+  "en": "generous",
+  "note": "",
+  "el": "γενναιόδωρος",
+  "tr": "gennaiódoros",
+  "forms": "γενναιόδωρη, γενναιόδωρο, γενναιόδωροι, γενναιόδωρες, γενναιόδωρα"
+ },
+ {
+  "en": "handsome",
+  "note": "",
+  "el": "όμορφος",
+  "tr": "ómorfos",
+  "forms": "όμορφη, όμορφο, όμορφοι, όμορφες, όμορφα"
+ },
+ {
+  "en": "ugly",
+  "note": "",
+  "el": "άσχημος",
+  "tr": "áschimos",
+  "forms": "άσχημη, άσχημο, άσχημοι, άσχημες, άσχημα"
+ },
+ {
+  "en": "silly",
+  "note": "",
+  "el": "ανόητος",
+  "tr": "anóitos",
+  "forms": "ανόητη, ανόητο, ανόητοι, ανόητες, ανόητα"
+ },
+ {
+  "en": "friendly",
+  "note": "",
+  "el": "φιλικός",
+  "tr": "filikós",
+  "forms": "φιλική, φιλικό, φιλικοί, φιλικές, φιλικά"
+ },
+ {
+  "en": "guilty",
+  "note": "",
+  "el": "ένοχος",
+  "tr": "énochos",
+  "forms": "ένοχη, ένοχο, ένοχοι, ένοχες, ένοχα"
+ },
+ {
+  "en": "blind",
+  "note": "",
+  "el": "τυφλός",
+  "tr": "tyflós",
+  "forms": "τυφλή, τυφλό, τυφλοί, τυφλές, τυφλά"
+ },
+ {
+  "en": "drunk",
+  "note": "",
+  "el": "μεθυσμένος",
+  "tr": "methysménos",
+  "forms": "μεθυσμένη, μεθυσμένο, μεθυσμένοι, μεθυσμένες, μεθυσμένα"
+ },
+ {
+  "en": "wet",
+  "note": "",
+  "el": "βρεγμένος",
+  "tr": "vregménos",
+  "forms": "βρεγμένη, βρεγμένο, βρεγμένοι, βρεγμένες, βρεγμένα"
+ },
+ {
+  "en": "dry",
+  "note": "",
+  "el": "στεγνός",
+  "tr": "stegnós",
+  "forms": "στεγνή, στεγνό, στεγνοί, στεγνές, στεγνά"
+ },
+ {
+  "en": "warm",
+  "note": "",
+  "el": "θερμός",
+  "tr": "thermós",
+  "forms": "θερμή, θερμό, θερμοί, θερμές, θερμά"
+ },
+ {
+  "en": "loud",
+  "note": "",
+  "el": "θορυβώδης",
+  "tr": "thoryvódis",
+  "forms": "θορυβώδης, θορυβώδες, θορυβώδεις, θορυβώδεις, θορυβώδη"
+ },
+ {
+  "en": "quiet",
+  "note": "",
+  "el": "ήσυχος",
+  "tr": "ísychos",
+  "forms": "ήσυχη, ήσυχο, ήσυχοι, ήσυχες, ήσυχα"
+ },
+ {
+  "en": "silent",
+  "note": "",
+  "el": "σιωπηλός",
+  "tr": "siopilós",
+  "forms": "σιωπηλή, σιωπηλό, σιωπηλοί, σιωπηλές, σιωπηλά"
+ },
+ {
+  "en": "kitchen",
+  "note": "",
+  "el": "η κουζίνα",
+  "tr": "kouzína",
+  "forms": ""
+ },
+ {
+  "en": "bathroom",
+  "note": "",
+  "el": "το μπάνιο",
+  "tr": "bánio",
+  "forms": ""
+ },
+ {
+  "en": "living room",
+  "note": "",
+  "el": "το σαλόνι",
+  "tr": "salóni",
+  "forms": ""
+ },
+ {
+  "en": "bedroom",
+  "note": "",
+  "el": "η κρεβατοκάμαρα",
+  "tr": "krevatokámara",
+  "forms": ""
+ },
+ {
+  "en": "garden",
+  "note": "",
+  "el": "ο κήπος",
+  "tr": "kípos",
+  "forms": ""
+ },
+ {
+  "en": "garage",
+  "note": "",
+  "el": "το γκαράζ",
+  "tr": "nkaráz",
+  "forms": ""
+ },
+ {
+  "en": "wall",
+  "note": "",
+  "el": "ο τοίχος",
+  "tr": "toíchos",
+  "forms": ""
+ },
+ {
+  "en": "basement",
+  "note": "",
+  "el": "το υπόγειο",
+  "tr": "ypógeio",
+  "forms": ""
+ },
+ {
+  "en": "toilet",
+  "note": "at home",
+  "el": "η τουαλέτα",
+  "tr": "toualéta",
+  "forms": ""
+ },
+ {
+  "en": "stairs",
+  "note": "",
+  "el": "οι σκάλες",
+  "tr": "skáles",
+  "forms": ""
+ },
+ {
+  "en": "roof",
+  "note": "",
+  "el": "η στέγη",
+  "tr": "stégi",
+  "forms": ""
+ },
+ {
+  "en": "window",
+  "note": "building",
+  "el": "το παράθυρο",
+  "tr": "paráthyro",
+  "forms": ""
+ },
+ {
+  "en": "knife",
+  "note": "",
+  "el": "το μαχαίρι",
+  "tr": "machaíri",
+  "forms": ""
+ },
+ {
+  "en": "cup",
+  "note": "for hot drinks",
+  "el": "το φλιτζάνι",
+  "tr": "flitzáni",
+  "forms": ""
+ },
+ {
+  "en": "glass",
+  "note": "",
+  "el": "το ποτήρι",
+  "tr": "potíri",
+  "forms": ""
+ },
+ {
+  "en": "plate",
+  "note": "",
+  "el": "το πιάτο",
+  "tr": "piáto",
+  "forms": ""
+ },
+ {
+  "en": "cup",
+  "note": "for cold drinks",
+  "el": "η κούπα",
+  "tr": "koúpa",
+  "forms": ""
+ },
+ {
+  "en": "garbage bin",
+  "note": "",
+  "el": "ο κάδος σκουπιδιών",
+  "tr": "kádos skoupidión",
+  "forms": ""
+ },
+ {
+  "en": "bowl",
+  "note": "",
+  "el": "το μπολ",
+  "tr": "bol",
+  "forms": ""
+ },
+ {
+  "en": "TV set",
+  "note": "",
+  "el": "η τηλεόραση",
+  "tr": "tileórasi",
+  "forms": ""
+ },
+ {
+  "en": "desk",
+  "note": "",
+  "el": "το γραφείο",
+  "tr": "grafeío",
+  "forms": ""
+ },
+ {
+  "en": "bed",
+  "note": "",
+  "el": "το κρεβάτι",
+  "tr": "kreváti",
+  "forms": ""
+ },
+ {
+  "en": "mirror",
+  "note": "",
+  "el": "ο καθρέφτης",
+  "tr": "kathréftis",
+  "forms": ""
+ },
+ {
+  "en": "shower",
+  "note": "",
+  "el": "το ντους",
+  "tr": "ntous",
+  "forms": ""
+ },
+ {
+  "en": "sofa",
+  "note": "",
+  "el": "ο καναπές",
+  "tr": "kanapés",
+  "forms": ""
+ },
+ {
+  "en": "picture",
+  "note": "",
+  "el": "η εικόνα",
+  "tr": "eikóna",
+  "forms": ""
+ },
+ {
+  "en": "clock",
+  "note": "",
+  "el": "το ρολόι",
+  "tr": "rolói",
+  "forms": ""
+ },
+ {
+  "en": "table",
+  "note": "",
+  "el": "το τραπέζι",
+  "tr": "trapézi",
+  "forms": ""
+ },
+ {
+  "en": "chair",
+  "note": "",
+  "el": "η καρέκλα",
+  "tr": "karékla",
+  "forms": ""
+ },
+ {
+  "en": "swimming pool",
+  "note": "garden",
+  "el": "η πισίνα",
+  "tr": "pisína",
+  "forms": ""
+ },
+ {
+  "en": "bell",
+  "note": "",
+  "el": "το κουδούνι",
+  "tr": "koudoúni",
+  "forms": ""
+ },
+ {
+  "en": "neighbour",
+  "note": "",
+  "el": "ο γείτονας",
+  "tr": "geítonas",
+  "forms": ""
+ },
+ {
+  "en": "to fail",
+  "note": "",
+  "el": "αποτυγχάνω",
+  "tr": "apotyncháno",
+  "forms": "απέτυχα, -, -, αποτυχημένος"
+ },
+ {
+  "en": "to choose",
+  "note": "",
+  "el": "επιλέγω",
+  "tr": "epilégo",
+  "forms": "επέλεξα, επιλέγομαι, επιλέχθηκα, επιλεγμένος"
+ },
+ {
+  "en": "to shoot",
+  "note": "",
+  "el": "πυροβολώ",
+  "tr": "pyrovoló",
+  "forms": "πυροβόλησα, πυροβολούμαι, πυροβολήθηκα, πυροβολημένος"
+ },
+ {
+  "en": "to vote",
+  "note": "",
+  "el": "ψηφίζω",
+  "tr": "psifízo",
+  "forms": "ψήφισα, ψηφίζομαι, ψηφίστηκα, ψηφισμένος"
+ },
+ {
+  "en": "to fall",
+  "note": "",
+  "el": "πέφτω",
+  "tr": "péfto",
+  "forms": "έπεσα, -, -, πεσμένος"
+ },
+ {
+  "en": "to defend",
+  "note": "",
+  "el": "αμύνομαι",
+  "tr": "amýnomai",
+  "forms": "αμύνθηκα, αμύνομαι, αμύνθηκα, αμυνόμενος"
+ },
+ {
+  "en": "to attack",
+  "note": "",
+  "el": "επιτίθεμαι",
+  "tr": "epitíthemai",
+  "forms": "επιτέθηκα, επιτίθεμαι, επιτέθηκα, επιτιθέμενος"
+ },
+ {
+  "en": "to steal",
+  "note": "",
+  "el": "κλέβω",
+  "tr": "klévo",
+  "forms": "έκλεψα, κλέβομαι, κλέφτηκα, κλεμμένος"
+ },
+ {
+  "en": "to burn",
+  "note": "",
+  "el": "καίω",
+  "tr": "kaío",
+  "forms": "έκαψα, καίγομαι, κάηκα, καμένος"
+ },
+ {
+  "en": "to rescue",
+  "note": "",
+  "el": "σώζω",
+  "tr": "sózo",
+  "forms": "έσωσα, σώζομαι, σώθηκα, σωσμένος"
+ },
+ {
+  "en": "to smoke",
+  "note": "",
+  "el": "καπνίζω",
+  "tr": "kapnízo",
+  "forms": "κάπνισα, καπνίζομαι, καπνίστηκα, καπνισμένος"
+ },
+ {
+  "en": "to fly",
+  "note": "",
+  "el": "πετάω",
+  "tr": "petáo",
+  "forms": "πέταξα, πετιέμαι, πετάχτηκα, πεταμένος"
+ },
+ {
+  "en": "to carry",
+  "note": "",
+  "el": "μεταφέρω",
+  "tr": "metaféro",
+  "forms": "μετέφερα, μεταφέρομαι, μεταφέρθηκα, μεταφερμένος"
+ },
+ {
+  "en": "to spit",
+  "note": "",
+  "el": "φτύνω",
+  "tr": "ftýno",
+  "forms": "έφτυσα, φτύνομαι, φτύστηκα, φτυσμένος"
+ },
+ {
+  "en": "to kick",
+  "note": "",
+  "el": "κλωτσάω",
+  "tr": "klotsáo",
+  "forms": "κλώτσησα, κλωτσιέμαι, κλωτσήθηκα, κλωτσημένος"
+ },
+ {
+  "en": "to bite",
+  "note": "",
+  "el": "δαγκώνω",
+  "tr": "dankóno",
+  "forms": "δάγκωσα, δαγκώνομαι, δαγκώθηκα, δαγκωμένος"
+ },
+ {
+  "en": "to breathe",
+  "note": "",
+  "el": "αναπνέω",
+  "tr": "anapnéo",
+  "forms": "ανάπνευσα, -, -, -"
+ },
+ {
+  "en": "to smell",
+  "note": "",
+  "el": "μυρίζω",
+  "tr": "myrízo",
+  "forms": "μύρισα, μυρίζομαι, μυρίστηκα, μυρισμένος"
+ },
+ {
+  "en": "to cry",
+  "note": "",
+  "el": "κλαίω",
+  "tr": "klaío",
+  "forms": "έκλαψα, κλαίγομαι, κλαύτηκα, κλαμένος"
+ },
+ {
+  "en": "to sing",
+  "note": "",
+  "el": "τραγουδάω",
+  "tr": "tragoudáo",
+  "forms": "τραγούδησα, τραγουδιέμαι, τραγουδήθηκα, τραγουδισμένος"
+ },
+ {
+  "en": "to smile",
+  "note": "",
+  "el": "χαμογελάω",
+  "tr": "chamogeláo",
+  "forms": "χαμογέλασα, -, -, χαμογελαστός"
+ },
+ {
+  "en": "to laugh",
+  "note": "",
+  "el": "γελάω",
+  "tr": "geláo",
+  "forms": "γέλασα, γελιέμαι, γελάστηκα, γελασμένος"
+ },
+ {
+  "en": "to grow",
+  "note": "",
+  "el": "μεγαλώνω",
+  "tr": "megalóno",
+  "forms": "μεγάλωσα, -, -, μεγαλωμένος"
+ },
+ {
+  "en": "to shrink",
+  "note": "",
+  "el": "συρρικνώνομαι",
+  "tr": "syrriknónomai",
+  "forms": "συρρίκνωσα, συρρικνώνομαι, συρρικνώθηκα, συρρικνωμένος"
+ },
+ {
+  "en": "to argue",
+  "note": "",
+  "el": "διαφωνώ",
+  "tr": "diafonó",
+  "forms": "διαφώνησα, -, -, -"
+ },
+ {
+  "en": "to threaten",
+  "note": "",
+  "el": "απειλώ",
+  "tr": "apeiló",
+  "forms": "απείλησα, απειλούμαι, απειλήθηκα, απειλημένος"
+ },
+ {
+  "en": "to share",
+  "note": "",
+  "el": "μοιράζομαι",
+  "tr": "moirázomai",
+  "forms": "μοίρασα, μοιράζομαι, μοιράστηκα, μοιρασμένος"
+ },
+ {
+  "en": "to feed",
+  "note": "",
+  "el": "ταΐζω",
+  "tr": "taḯzo",
+  "forms": "τάισα, ταΐζομαι, ταΐστηκα, ταϊσμένος"
+ },
+ {
+  "en": "to hide",
+  "note": "",
+  "el": "κρύβω",
+  "tr": "krývo",
+  "forms": "έκρυψα, κρύβομαι, κρύφτηκα, κρυμμένος"
+ },
+ {
+  "en": "to warn",
+  "note": "",
+  "el": "προειδοποιώ",
+  "tr": "proeidopoió",
+  "forms": "προειδοποίησα, προειδοποιούμαι, προειδοποιήθηκα, προειδοποιημένος"
+ },
+ {
+  "en": "to swim",
+  "note": "",
+  "el": "κολυμπάω",
+  "tr": "kolympáo",
+  "forms": "κολύμπησα, -, -, -"
+ },
+ {
+  "en": "to jump",
+  "note": "",
+  "el": "πηδάω",
+  "tr": "pidáo",
+  "forms": "πήδηξα, πηδιέμαι, πηδήχτηκα, πηδηγμένος"
+ },
+ {
+  "en": "to roll",
+  "note": "",
+  "el": "κυλώ",
+  "tr": "kyló",
+  "forms": "κύλησα, κυλιέμαι, κυλίστηκα, κυλισμένος"
+ },
+ {
+  "en": "to lift",
+  "note": "",
+  "el": "σηκώνω",
+  "tr": "sikóno",
+  "forms": "σήκωσα, σηκώνομαι, σηκώθηκα, σηκωμένος"
+ },
+ {
+  "en": "to dig",
+  "note": "",
+  "el": "σκάβω",
+  "tr": "skávo",
+  "forms": "έσκαψα, σκάβομαι, σκάφτηκα, σκαμμένος"
+ },
+ {
+  "en": "to copy",
+  "note": "",
+  "el": "αντιγράφω",
+  "tr": "antigráfo",
+  "forms": "αντέγραψα, αντιγράφομαι, αντιγράφτηκα, αντιγραμμένος"
+ },
+ {
+  "en": "to deliver",
+  "note": "",
+  "el": "παραδίδω",
+  "tr": "paradído",
+  "forms": "παρέδωσα, παραδίδομαι, παραδόθηκα, παραδομένος"
+ },
+ {
+  "en": "to look for",
+  "note": "",
+  "el": "ψάχνω",
+  "tr": "psáchno",
+  "forms": "έψαξα, ψάχνομαι, ψάχτηκα, ψαγμένος"
+ },
+ {
+  "en": "to practice",
+  "note": "",
+  "el": "εξασκώ",
+  "tr": "exaskó",
+  "forms": "εξάσκησα, εξασκούμαι, εξασκήθηκα, εξασκημένος"
+ },
+ {
+  "en": "to travel",
+  "note": "",
+  "el": "ταξιδεύω",
+  "tr": "taxidévo",
+  "forms": "ταξίδεψα, -, -, ταξιδεμένος"
+ },
+ {
+  "en": "to paint",
+  "note": "",
+  "el": "ζωγραφίζω",
+  "tr": "zografízo",
+  "forms": "ζωγράφισα, ζωγραφίζομαι, ζωγραφίστηκα, ζωγραφισμένος"
+ },
+ {
+  "en": "to take a shower",
+  "note": "",
+  "el": "κάνω ντους",
+  "tr": "káno ntous",
+  "forms": "έκανα ντους, -, -, -"
+ },
+ {
+  "en": "to open",
+  "note": "unlock",
+  "el": "ανοίγω",
+  "tr": "anoígo",
+  "forms": "άνοιξα, ανοίγομαι, ανοίχτηκα, ανοιγμένος"
+ },
+ {
+  "en": "to lock",
+  "note": "",
+  "el": "κλειδώνω",
+  "tr": "kleidóno",
+  "forms": "κλείδωσα, κλειδώνομαι, κλειδώθηκα, κλειδωμένος"
+ },
+ {
+  "en": "to wash",
+  "note": "",
+  "el": "πλένω",
+  "tr": "pléno",
+  "forms": "έπλυνα, πλένομαι, πλύθηκα, πλυμένος"
+ },
+ {
+  "en": "to pray",
+  "note": "",
+  "el": "προσεύχομαι",
+  "tr": "proséfchomai",
+  "forms": "-, προσεύχομαι, προσευχήθηκα, -"
+ },
+ {
+  "en": "to cook",
+  "note": "",
+  "el": "μαγειρεύω",
+  "tr": "mageirévo",
+  "forms": "μαγείρεψα, μαγειρεύομαι, μαγειρεύτηκα, μαγειρεμένος"
+ },
+ {
+  "en": "book",
+  "note": "",
+  "el": "το βιβλίο",
+  "tr": "vivlío",
+  "forms": ""
+ },
+ {
+  "en": "library",
+  "note": "",
+  "el": "η βιβλιοθήκη",
+  "tr": "vivliothíki",
+  "forms": ""
+ },
+ {
+  "en": "homework",
+  "note": "",
+  "el": "η εργασία για το σπίτι",
+  "tr": "ergasía gia to spíti",
+  "forms": ""
+ },
+ {
+  "en": "exam",
+  "note": "",
+  "el": "οι εξετάσεις",
+  "tr": "exetáseis",
+  "forms": ""
+ },
+ {
+  "en": "lesson",
+  "note": "",
+  "el": "το μάθημα",
+  "tr": "máthima",
+  "forms": ""
+ },
+ {
+  "en": "science",
+  "note": "",
+  "el": "η επιστήμη",
+  "tr": "epistími",
+  "forms": ""
+ },
+ {
+  "en": "history",
+  "note": "",
+  "el": "η ιστορία",
+  "tr": "istoría",
+  "forms": ""
+ },
+ {
+  "en": "art",
+  "note": "",
+  "el": "η τέχνη",
+  "tr": "téchni",
+  "forms": ""
+ },
+ {
+  "en": "English",
+  "note": "",
+  "el": "τα Αγγλικά",
+  "tr": "Angliká",
+  "forms": ""
+ },
+ {
+  "en": "French",
+  "note": "",
+  "el": "τα Γαλλικά",
+  "tr": "Galliká",
+  "forms": ""
+ },
+ {
+  "en": "pen",
+  "note": "",
+  "el": "το στυλό",
+  "tr": "styló",
+  "forms": ""
+ },
+ {
+  "en": "pencil",
+  "note": "",
+  "el": "το μολύβι",
+  "tr": "molývi",
+  "forms": ""
+ },
+ {
+  "en": "3%",
+  "note": "",
+  "el": "τρία τοις εκατό",
+  "tr": "tría tois ekató",
+  "forms": ""
+ },
+ {
+  "en": "first",
+  "note": "",
+  "el": "ο πρώτος",
+  "tr": "prótos",
+  "forms": ""
+ },
+ {
+  "en": "second",
+  "note": "2nd",
+  "el": "ο δεύτερος",
+  "tr": "défteros",
+  "forms": ""
+ },
+ {
+  "en": "third",
+  "note": "",
+  "el": "ο τρίτος",
+  "tr": "trítos",
+  "forms": ""
+ },
+ {
+  "en": "fourth",
+  "note": "",
+  "el": "ο τέταρτος",
+  "tr": "tétartos",
+  "forms": ""
+ },
+ {
+  "en": "result",
+  "note": "",
+  "el": "το αποτέλεσμα",
+  "tr": "apotélesma",
+  "forms": ""
+ },
+ {
+  "en": "square",
+  "note": "shape",
+  "el": "το τετράγωνο",
+  "tr": "tetrágono",
+  "forms": ""
+ },
+ {
+  "en": "circle",
+  "note": "",
+  "el": "ο κύκλος",
+  "tr": "kýklos",
+  "forms": ""
+ },
+ {
+  "en": "area",
+  "note": "",
+  "el": "η επιφάνεια",
+  "tr": "epifáneia",
+  "forms": ""
+ },
+ {
+  "en": "research",
+  "note": "",
+  "el": "η έρευνα",
+  "tr": "érevna",
+  "forms": ""
+ },
+ {
+  "en": "degree",
+  "note": "",
+  "el": "το πτυχίο",
+  "tr": "ptychío",
+  "forms": ""
+ },
+ {
+  "en": "bachelor",
+  "note": "",
+  "el": "το πτυχίο",
+  "tr": "ptychío",
+  "forms": ""
+ },
+ {
+  "en": "master",
+  "note": "",
+  "el": "το μεταπτυχιακό",
+  "tr": "metaptychiakó",
+  "forms": ""
+ },
+ {
+  "en": "x < y",
+  "note": "",
+  "el": "το x είναι μικρότερο από το y",
+  "tr": "to x eínai mikrótero apó to y",
+  "forms": ""
+ },
+ {
+  "en": "x > y",
+  "note": "",
+  "el": "το x είναι μεγαλύτερο από το y",
+  "tr": "to x eínai megalýtero apó to y",
+  "forms": ""
+ },
+ {
+  "en": "stress",
+  "note": "",
+  "el": "το άγχος",
+  "tr": "ánchos",
+  "forms": ""
+ },
+ {
+  "en": "insurance",
+  "note": "",
+  "el": "η ασφάλεια",
+  "tr": "asfáleia",
+  "forms": ""
+ },
+ {
+  "en": "staff",
+  "note": "",
+  "el": "το προσωπικό",
+  "tr": "prosopikó",
+  "forms": ""
+ },
+ {
+  "en": "department",
+  "note": "",
+  "el": "το τμήμα",
+  "tr": "tmíma",
+  "forms": ""
+ },
+ {
+  "en": "salary",
+  "note": "",
+  "el": "ο μισθός",
+  "tr": "misthós",
+  "forms": ""
+ },
+ {
+  "en": "address",
+  "note": "",
+  "el": "η διεύθυνση",
+  "tr": "diéfthynsi",
+  "forms": ""
+ },
+ {
+  "en": "letter",
+  "note": "post",
+  "el": "το γράμμα",
+  "tr": "grámma",
+  "forms": ""
+ },
+ {
+  "en": "captain",
+  "note": "",
+  "el": "ο καπετάνιος",
+  "tr": "kapetánios",
+  "forms": ""
+ },
+ {
+  "en": "detective",
+  "note": "",
+  "el": "ο ντετέκτιβ",
+  "tr": "ntetéktiv",
+  "forms": ""
+ },
+ {
+  "en": "pilot",
+  "note": "",
+  "el": "ο πιλότος",
+  "tr": "pilótos",
+  "forms": ""
+ },
+ {
+  "en": "professor",
+  "note": "",
+  "el": "ο καθηγητής",
+  "tr": "kathigitís",
+  "forms": ""
+ },
+ {
+  "en": "teacher",
+  "note": "",
+  "el": "ο δάσκαλος",
+  "tr": "dáskalos",
+  "forms": ""
+ },
+ {
+  "en": "lawyer",
+  "note": "",
+  "el": "ο δικηγόρος",
+  "tr": "dikigóros",
+  "forms": ""
+ },
+ {
+  "en": "secretary",
+  "note": "",
+  "el": "ο γραμματέας",
+  "tr": "grammatéas",
+  "forms": ""
+ },
+ {
+  "en": "assistant",
+  "note": "",
+  "el": "ο βοηθός",
+  "tr": "voithós",
+  "forms": ""
+ },
+ {
+  "en": "judge",
+  "note": "",
+  "el": "ο δικαστής",
+  "tr": "dikastís",
+  "forms": ""
+ },
+ {
+  "en": "director",
+  "note": "business",
+  "el": "ο διευθυντής",
+  "tr": "diefthyntís",
+  "forms": ""
+ },
+ {
+  "en": "manager",
+  "note": "",
+  "el": "ο μάνατζερ",
+  "tr": "mánatzer",
+  "forms": ""
+ },
+ {
+  "en": "cook",
+  "note": "",
+  "el": "ο μάγειρας",
+  "tr": "mágeiras",
+  "forms": ""
+ },
+ {
+  "en": "taxi driver",
+  "note": "",
+  "el": "ο οδηγός ταξί",
+  "tr": "odigós taxí",
+  "forms": ""
+ },
+ {
+  "en": "bus driver",
+  "note": "",
+  "el": "ο οδηγός λεωφορείου",
+  "tr": "odigós leoforeíou",
+  "forms": ""
+ },
+ {
+  "en": "criminal",
+  "note": "",
+  "el": "ο εγκληματίας",
+  "tr": "enklimatías",
+  "forms": ""
+ },
+ {
+  "en": "model",
+  "note": "",
+  "el": "το μοντέλο",
+  "tr": "montélo",
+  "forms": ""
+ },
+ {
+  "en": "artist",
+  "note": "",
+  "el": "ο καλλιτέχνης",
+  "tr": "kallitéchnis",
+  "forms": ""
+ },
+ {
+  "en": "telephone number",
+  "note": "",
+  "el": "ο αριθμός τηλεφώνου",
+  "tr": "arithmós tilefónou",
+  "forms": ""
+ },
+ {
+  "en": "signal",
+  "note": "of phone",
+  "el": "το σήμα",
+  "tr": "síma",
+  "forms": ""
+ },
+ {
+  "en": "app",
+  "note": "",
+  "el": "η εφαρμογή",
+  "tr": "efarmogí",
+  "forms": ""
+ },
+ {
+  "en": "chat",
+  "note": "",
+  "el": "η συνομιλία",
+  "tr": "synomilía",
+  "forms": ""
+ },
+ {
+  "en": "file",
+  "note": "",
+  "el": "το αρχείο",
+  "tr": "archeío",
+  "forms": ""
+ },
+ {
+  "en": "url",
+  "note": "",
+  "el": "η ιστοδιεύθυνση",
+  "tr": "istodiéfthynsi",
+  "forms": ""
+ },
+ {
+  "en": "e-mail address",
+  "note": "",
+  "el": "η διεύθυνση ηλεκτρονικού ταχυδρομείου",
+  "tr": "diéfthynsi ilektronikoú tachydromeíou",
+  "forms": ""
+ },
+ {
+  "en": "website",
+  "note": "",
+  "el": "η ιστοσελίδα",
+  "tr": "istoselída",
+  "forms": ""
+ },
+ {
+  "en": "e-mail",
+  "note": "",
+  "el": "το ηλεκτρονικό ταχυδρομείο",
+  "tr": "ilektronikó tachydromeío",
+  "forms": ""
+ },
+ {
+  "en": "mobile phone",
+  "note": "",
+  "el": "το κινητό τηλέφωνο",
+  "tr": "kinitó tiléfono",
+  "forms": ""
+ },
+ {
+  "en": "law",
+  "note": "",
+  "el": "ο νόμος",
+  "tr": "nómos",
+  "forms": ""
+ },
+ {
+  "en": "prison",
+  "note": "",
+  "el": "η φυλακή",
+  "tr": "fylakí",
+  "forms": ""
+ },
+ {
+  "en": "evidence",
+  "note": "",
+  "el": "η απόδειξη",
+  "tr": "apódeixi",
+  "forms": ""
+ },
+ {
+  "en": "fine",
+  "note": "",
+  "el": "το πρόστιμο",
+  "tr": "próstimo",
+  "forms": ""
+ },
+ {
+  "en": "witness",
+  "note": "",
+  "el": "ο μάρτυρας",
+  "tr": "mártyras",
+  "forms": ""
+ },
+ {
+  "en": "court",
+  "note": "",
+  "el": "το δικαστήριο",
+  "tr": "dikastírio",
+  "forms": ""
+ },
+ {
+  "en": "signature",
+  "note": "",
+  "el": "η υπογραφή",
+  "tr": "ypografí",
+  "forms": ""
+ },
+ {
+  "en": "loss",
+  "note": "",
+  "el": "η απώλεια",
+  "tr": "apóleia",
+  "forms": ""
+ },
+ {
+  "en": "profit",
+  "note": "",
+  "el": "το κέρδος",
+  "tr": "kérdos",
+  "forms": ""
+ },
+ {
+  "en": "customer",
+  "note": "",
+  "el": "ο πελάτης",
+  "tr": "pelátis",
+  "forms": ""
+ },
+ {
+  "en": "amount",
+  "note": "",
+  "el": "το ποσό",
+  "tr": "posó",
+  "forms": ""
+ },
+ {
+  "en": "credit card",
+  "note": "",
+  "el": "η πιστωτική κάρτα",
+  "tr": "pistotikí kárta",
+  "forms": ""
+ },
+ {
+  "en": "password",
+  "note": "",
+  "el": "ο κωδικός",
+  "tr": "kodikós",
+  "forms": ""
+ },
+ {
+  "en": "cash machine",
+  "note": "",
+  "el": "η μηχανή μετρητών",
+  "tr": "michaní metritón",
+  "forms": ""
+ },
+ {
+  "en": "swimming pool",
+  "note": "competition",
+  "el": "η πισίνα",
+  "tr": "pisína",
+  "forms": ""
+ },
+ {
+  "en": "power",
+  "note": "",
+  "el": "το ρεύμα",
+  "tr": "révma",
+  "forms": ""
+ },
+ {
+  "en": "camera",
+  "note": "",
+  "el": "η φωτογραφική μηχανή",
+  "tr": "fotografikí michaní",
+  "forms": ""
+ },
+ {
+  "en": "radio",
+  "note": "",
+  "el": "το ραδιόφωνο",
+  "tr": "radiófono",
+  "forms": ""
+ },
+ {
+  "en": "present",
+  "note": "gift",
+  "el": "το δώρο",
+  "tr": "dóro",
+  "forms": ""
+ },
+ {
+  "en": "bottle",
+  "note": "",
+  "el": "το μπουκάλι",
+  "tr": "boukáli",
+  "forms": ""
+ },
+ {
+  "en": "bag",
+  "note": "",
+  "el": "η σακούλα",
+  "tr": "sakoúla",
+  "forms": ""
+ },
+ {
+  "en": "key",
+  "note": "",
+  "el": "το κλειδί",
+  "tr": "kleidí",
+  "forms": ""
+ },
+ {
+  "en": "doll",
+  "note": "",
+  "el": "η κούκλα",
+  "tr": "koúkla",
+  "forms": ""
+ },
+ {
+  "en": "angel",
+  "note": "",
+  "el": "ο άγγελος",
+  "tr": "ángelos",
+  "forms": ""
+ },
+ {
+  "en": "comb",
+  "note": "",
+  "el": "η χτένα",
+  "tr": "chténa",
+  "forms": ""
+ },
+ {
+  "en": "toothpaste",
+  "note": "",
+  "el": "η οδοντόκρεμα",
+  "tr": "odontókrema",
+  "forms": ""
+ },
+ {
+  "en": "toothbrush",
+  "note": "",
+  "el": "η οδοντόβουρτσα",
+  "tr": "odontóvourtsa",
+  "forms": ""
+ },
+ {
+  "en": "shampoo",
+  "note": "",
+  "el": "το σαμπουάν",
+  "tr": "sampouán",
+  "forms": ""
+ },
+ {
+  "en": "cream",
+  "note": "pharmaceutical",
+  "el": "η κρέμα",
+  "tr": "kréma",
+  "forms": ""
+ },
+ {
+  "en": "tissue",
+  "note": "",
+  "el": "το χαρτομάντιλο",
+  "tr": "chartomántilo",
+  "forms": ""
+ },
+ {
+  "en": "lipstick",
+  "note": "",
+  "el": "το κραγιόν",
+  "tr": "kragión",
+  "forms": ""
+ },
+ {
+  "en": "TV",
+  "note": "",
+  "el": "η τηλεόραση",
+  "tr": "tileórasi",
+  "forms": ""
+ },
+ {
+  "en": "cinema",
+  "note": "",
+  "el": "ο κινηματογράφος",
+  "tr": "kinimatográfos",
+  "forms": ""
+ },
+ {
+  "en": "news",
+  "note": "",
+  "el": "τα νέα",
+  "tr": "néa",
+  "forms": ""
+ },
+ {
+  "en": "seat",
+  "note": "",
+  "el": "η θέση",
+  "tr": "thési",
+  "forms": ""
+ },
+ {
+  "en": "ticket",
+  "note": "",
+  "el": "το εισιτήριο",
+  "tr": "eisitírio",
+  "forms": ""
+ },
+ {
+  "en": "screen",
+  "note": "cinema",
+  "el": "η οθόνη",
+  "tr": "othóni",
+  "forms": ""
+ },
+ {
+  "en": "music",
+  "note": "",
+  "el": "η μουσική",
+  "tr": "mousikí",
+  "forms": ""
+ },
+ {
+  "en": "stage",
+  "note": "",
+  "el": "η σκηνή",
+  "tr": "skiní",
+  "forms": ""
+ },
+ {
+  "en": "audience",
+  "note": "",
+  "el": "το κοινό",
+  "tr": "koinó",
+  "forms": ""
+ },
+ {
+  "en": "painting",
+  "note": "",
+  "el": "η ζωγραφική",
+  "tr": "zografikí",
+  "forms": ""
+ },
+ {
+  "en": "joke",
+  "note": "",
+  "el": "το αστείο",
+  "tr": "asteío",
+  "forms": ""
+ },
+ {
+  "en": "article",
+  "note": "",
+  "el": "το άρθρο",
+  "tr": "árthro",
+  "forms": ""
+ },
+ {
+  "en": "newspaper",
+  "note": "",
+  "el": "η εφημερίδα",
+  "tr": "efimerída",
+  "forms": ""
+ },
+ {
+  "en": "magazine",
+  "note": "",
+  "el": "το περιοδικό",
+  "tr": "periodikó",
+  "forms": ""
+ },
+ {
+  "en": "advertisement",
+  "note": "",
+  "el": "η διαφήμιση",
+  "tr": "diafímisi",
+  "forms": ""
+ },
+ {
+  "en": "nature",
+  "note": "",
+  "el": "η φύση",
+  "tr": "fýsi",
+  "forms": ""
+ },
+ {
+  "en": "ash",
+  "note": "",
+  "el": "η τέφρα",
+  "tr": "téfra",
+  "forms": ""
+ },
+ {
+  "en": "fire",
+  "note": "general",
+  "el": "η φωτιά",
+  "tr": "fotiá",
+  "forms": ""
+ },
+ {
+  "en": "diamond",
+  "note": "",
+  "el": "το διαμάντι",
+  "tr": "diamánti",
+  "forms": ""
+ },
+ {
+  "en": "moon",
+  "note": "",
+  "el": "το φεγγάρι",
+  "tr": "fengári",
+  "forms": ""
+ },
+ {
+  "en": "earth",
+  "note": "",
+  "el": "η γη",
+  "tr": "gi",
+  "forms": ""
+ },
+ {
+  "en": "sun",
+  "note": "",
+  "el": "ο ήλιος",
+  "tr": "ílios",
+  "forms": ""
+ },
+ {
+  "en": "star",
+  "note": "",
+  "el": "το αστέρι",
+  "tr": "astéri",
+  "forms": ""
+ },
+ {
+  "en": "planet",
+  "note": "",
+  "el": "ο πλανήτης",
+  "tr": "planítis",
+  "forms": ""
+ },
+ {
+  "en": "universe",
+  "note": "",
+  "el": "το σύμπαν",
+  "tr": "sýmpan",
+  "forms": ""
+ },
+ {
+  "en": "coast",
+  "note": "",
+  "el": "η ακτή",
+  "tr": "aktí",
+  "forms": ""
+ },
+ {
+  "en": "lake",
+  "note": "",
+  "el": "η λίμνη",
+  "tr": "límni",
+  "forms": ""
+ },
+ {
+  "en": "forest",
+  "note": "",
+  "el": "το δάσος",
+  "tr": "dásos",
+  "forms": ""
+ },
+ {
+  "en": "desert",
+  "note": "dry place",
+  "el": "η έρημος",
+  "tr": "érimos",
+  "forms": ""
+ },
+ {
+  "en": "hill",
+  "note": "",
+  "el": "ο λόφος",
+  "tr": "lófos",
+  "forms": ""
+ },
+ {
+  "en": "rock",
+  "note": "stone",
+  "el": "ο βράχος",
+  "tr": "vráchos",
+  "forms": ""
+ },
+ {
+  "en": "river",
+  "note": "",
+  "el": "το ποτάμι",
+  "tr": "potámi",
+  "forms": ""
+ },
+ {
+  "en": "valley",
+  "note": "",
+  "el": "η κοιλάδα",
+  "tr": "koiláda",
+  "forms": ""
+ },
+ {
+  "en": "mountain",
+  "note": "",
+  "el": "το βουνό",
+  "tr": "vounó",
+  "forms": ""
+ },
+ {
+  "en": "island",
+  "note": "",
+  "el": "το νησί",
+  "tr": "nisí",
+  "forms": ""
+ },
+ {
+  "en": "ocean",
+  "note": "",
+  "el": "ο ωκεανός",
+  "tr": "okeanós",
+  "forms": ""
+ },
+ {
+  "en": "sea",
+  "note": "",
+  "el": "η θάλασσα",
+  "tr": "thálassa",
+  "forms": ""
+ },
+ {
+  "en": "weather",
+  "note": "",
+  "el": "ο καιρός",
+  "tr": "kairós",
+  "forms": ""
+ },
+ {
+  "en": "ice",
+  "note": "",
+  "el": "ο πάγος",
+  "tr": "págos",
+  "forms": ""
+ },
+ {
+  "en": "snow",
+  "note": "",
+  "el": "το χιόνι",
+  "tr": "chióni",
+  "forms": ""
+ },
+ {
+  "en": "storm",
+  "note": "",
+  "el": "η καταιγίδα",
+  "tr": "kataigída",
+  "forms": ""
+ },
+ {
+  "en": "rain",
+  "note": "",
+  "el": "η βροχή",
+  "tr": "vrochí",
+  "forms": ""
+ },
+ {
+  "en": "wind",
+  "note": "",
+  "el": "ο άνεμος",
+  "tr": "ánemos",
+  "forms": ""
+ },
+ {
+  "en": "plant",
+  "note": "",
+  "el": "το φυτό",
+  "tr": "fytó",
+  "forms": ""
+ },
+ {
+  "en": "tree",
+  "note": "",
+  "el": "το δέντρο",
+  "tr": "déntro",
+  "forms": ""
+ },
+ {
+  "en": "grass",
+  "note": "",
+  "el": "το γρασίδι",
+  "tr": "grasídi",
+  "forms": ""
+ },
+ {
+  "en": "rose",
+  "note": "",
+  "el": "το τριαντάφυλλο",
+  "tr": "triantáfyllo",
+  "forms": ""
+ },
+ {
+  "en": "flower",
+  "note": "",
+  "el": "το λουλούδι",
+  "tr": "louloúdi",
+  "forms": ""
+ },
+ {
+  "en": "gas",
+  "note": "",
+  "el": "το αέριο",
+  "tr": "aério",
+  "forms": ""
+ },
+ {
+  "en": "metal",
+  "note": "",
+  "el": "το μέταλλο",
+  "tr": "métallo",
+  "forms": ""
+ },
+ {
+  "en": "gold",
+  "note": "",
+  "el": "ο χρυσός",
+  "tr": "chrysós",
+  "forms": ""
+ },
+ {
+  "en": "silver",
+  "note": "",
+  "el": "το ασήμι",
+  "tr": "asími",
+  "forms": ""
+ },
+ {
+  "en": "Silver is cheaper than gold",
+  "note": "",
+  "el": "Το ασήμι είναι φθηνότερο από τον χρυσό",
+  "tr": "To asími eínai fthinótero apó ton chrysó",
+  "forms": ""
+ },
+ {
+  "en": "Gold is more expensive than silver",
+  "note": "",
+  "el": "Ο χρυσός είναι ακριβότερος από το ασήμι",
+  "tr": "O chrysós eínai akrivóteros apó to asími",
+  "forms": ""
+ },
+ {
+  "en": "holiday",
+  "note": "",
+  "el": "οι διακοπές",
+  "tr": "diakopés",
+  "forms": ""
+ },
+ {
+  "en": "member",
+  "note": "",
+  "el": "το μέλος",
+  "tr": "mélos",
+  "forms": ""
+ },
+ {
+  "en": "hotel",
+  "note": "",
+  "el": "το ξενοδοχείο",
+  "tr": "xenodocheío",
+  "forms": ""
+ },
+ {
+  "en": "beach",
+  "note": "",
+  "el": "η παραλία",
+  "tr": "paralía",
+  "forms": ""
+ },
+ {
+  "en": "guest",
+  "note": "",
+  "el": "ο επισκέπτης",
+  "tr": "episképtis",
+  "forms": ""
+ },
+ {
+  "en": "birthday",
+  "note": "",
+  "el": "τα γενέθλια",
+  "tr": "genéthlia",
+  "forms": ""
+ },
+ {
+  "en": "Christmas",
+  "note": "",
+  "el": "τα Χριστούγεννα",
+  "tr": "Christoúgenna",
+  "forms": ""
+ },
+ {
+  "en": "New Year",
+  "note": "",
+  "el": "η Πρωτοχρονιά",
+  "tr": "Protochroniá",
+  "forms": ""
+ },
+ {
+  "en": "Easter",
+  "note": "",
+  "el": "το Πάσχα",
+  "tr": "Páscha",
+  "forms": ""
+ },
+ {
+  "en": "uncle",
+  "note": "",
+  "el": "ο θείος",
+  "tr": "theíos",
+  "forms": ""
+ },
+ {
+  "en": "aunt",
+  "note": "",
+  "el": "η θεία",
+  "tr": "theía",
+  "forms": ""
+ },
+ {
+  "en": "grandmother",
+  "note": "paternal",
+  "el": "η γιαγιά",
+  "tr": "giagiá",
+  "forms": ""
+ },
+ {
+  "en": "grandfather",
+  "note": "paternal",
+  "el": "ο παππούς",
+  "tr": "pappoús",
+  "forms": ""
+ },
+ {
+  "en": "grandmother",
+  "note": "maternal",
+  "el": "η γιαγιά",
+  "tr": "giagiá",
+  "forms": ""
+ },
+ {
+  "en": "grandfather",
+  "note": "maternal",
+  "el": "ο παππούς",
+  "tr": "pappoús",
+  "forms": ""
+ },
+ {
+  "en": "death",
+  "note": "",
+  "el": "ο θάνατος",
+  "tr": "thánatos",
+  "forms": ""
+ },
+ {
+  "en": "grave",
+  "note": "",
+  "el": "ο τάφος",
+  "tr": "táfos",
+  "forms": ""
+ },
+ {
+  "en": "divorce",
+  "note": "",
+  "el": "το διαζύγιο",
+  "tr": "diazýgio",
+  "forms": ""
+ },
+ {
+  "en": "bride",
+  "note": "",
+  "el": "η νύφη",
+  "tr": "nýfi",
+  "forms": ""
+ },
+ {
+  "en": "groom",
+  "note": "",
+  "el": "ο γαμπρός",
+  "tr": "gamprós",
+  "forms": ""
+ },
+ {
+  "en": "101",
+  "note": "",
+  "el": "εκατόν ένα",
+  "tr": "ekatón éna",
+  "forms": ""
+ },
+ {
+  "en": "105",
+  "note": "",
+  "el": "εκατόν πέντε",
+  "tr": "ekatón pénte",
+  "forms": ""
+ },
+ {
+  "en": "110",
+  "note": "",
+  "el": "εκατόν δέκα",
+  "tr": "ekatón déka",
+  "forms": ""
+ },
+ {
+  "en": "151",
+  "note": "",
+  "el": "εκατόν πενήντα ένα",
+  "tr": "ekatón penínta éna",
+  "forms": ""
+ },
+ {
+  "en": "200",
+  "note": "",
+  "el": "διακόσια",
+  "tr": "diakósia",
+  "forms": ""
+ },
+ {
+  "en": "202",
+  "note": "",
+  "el": "διακόσια δύο",
+  "tr": "diakósia dýo",
+  "forms": ""
+ },
+ {
+  "en": "206",
+  "note": "",
+  "el": "διακόσια έξι",
+  "tr": "diakósia éxi",
+  "forms": ""
+ },
+ {
+  "en": "220",
+  "note": "",
+  "el": "διακόσια είκοσι",
+  "tr": "diakósia eíkosi",
+  "forms": ""
+ },
+ {
+  "en": "262",
+  "note": "",
+  "el": "διακόσια εξήντα δύο",
+  "tr": "diakósia exínta dýo",
+  "forms": ""
+ },
+ {
+  "en": "300",
+  "note": "",
+  "el": "τριακόσια",
+  "tr": "triakósia",
+  "forms": ""
+ },
+ {
+  "en": "303",
+  "note": "",
+  "el": "τριακόσια τρία",
+  "tr": "triakósia tría",
+  "forms": ""
+ },
+ {
+  "en": "307",
+  "note": "",
+  "el": "τριακόσια επτά",
+  "tr": "triakósia eptá",
+  "forms": ""
+ },
+ {
+  "en": "330",
+  "note": "",
+  "el": "τριακόσια τριάντα",
+  "tr": "triakósia triánta",
+  "forms": ""
+ },
+ {
+  "en": "373",
+  "note": "",
+  "el": "τριακόσια εβδομήντα τρία",
+  "tr": "triakósia evdomínta tría",
+  "forms": ""
+ },
+ {
+  "en": "400",
+  "note": "",
+  "el": "τετρακόσια",
+  "tr": "tetrakósia",
+  "forms": ""
+ },
+ {
+  "en": "404",
+  "note": "",
+  "el": "τετρακόσια τέσσερα",
+  "tr": "tetrakósia téssera",
+  "forms": ""
+ },
+ {
+  "en": "408",
+  "note": "",
+  "el": "τετρακόσια οκτώ",
+  "tr": "tetrakósia októ",
+  "forms": ""
+ },
+ {
+  "en": "440",
+  "note": "",
+  "el": "τετρακόσια σαράντα",
+  "tr": "tetrakósia saránta",
+  "forms": ""
+ },
+ {
+  "en": "484",
+  "note": "",
+  "el": "τετρακόσια ογδόντα τέσσερα",
+  "tr": "tetrakósia ogdónta téssera",
+  "forms": ""
+ },
+ {
+  "en": "500",
+  "note": "",
+  "el": "πεντακόσια",
+  "tr": "pentakósia",
+  "forms": ""
+ },
+ {
+  "en": "505",
+  "note": "",
+  "el": "πεντακόσια πέντε",
+  "tr": "pentakósia pénte",
+  "forms": ""
+ },
+ {
+  "en": "509",
+  "note": "",
+  "el": "πεντακόσια εννέα",
+  "tr": "pentakósia ennéa",
+  "forms": ""
+ },
+ {
+  "en": "550",
+  "note": "",
+  "el": "πεντακόσια πενήντα",
+  "tr": "pentakósia penínta",
+  "forms": ""
+ },
+ {
+  "en": "595",
+  "note": "",
+  "el": "πεντακόσια ενενήντα πέντε",
+  "tr": "pentakósia enenínta pénte",
+  "forms": ""
+ },
+ {
+  "en": "600",
+  "note": "",
+  "el": "εξακόσια",
+  "tr": "exakósia",
+  "forms": ""
+ },
+ {
+  "en": "601",
+  "note": "",
+  "el": "εξακόσια ένα",
+  "tr": "exakósia éna",
+  "forms": ""
+ },
+ {
+  "en": "606",
+  "note": "",
+  "el": "εξακόσια έξι",
+  "tr": "exakósia éxi",
+  "forms": ""
+ },
+ {
+  "en": "616",
+  "note": "",
+  "el": "εξακόσια δεκαέξι",
+  "tr": "exakósia dekaéxi",
+  "forms": ""
+ },
+ {
+  "en": "660",
+  "note": "",
+  "el": "εξακόσια εξήντα",
+  "tr": "exakósia exínta",
+  "forms": ""
+ },
+ {
+  "en": "700",
+  "note": "",
+  "el": "επτακόσια",
+  "tr": "eptakósia",
+  "forms": ""
+ },
+ {
+  "en": "702",
+  "note": "",
+  "el": "επτακόσια δύο",
+  "tr": "eptakósia dýo",
+  "forms": ""
+ },
+ {
+  "en": "707",
+  "note": "",
+  "el": "επτακόσια επτά",
+  "tr": "eptakósia eptá",
+  "forms": ""
+ },
+ {
+  "en": "727",
+  "note": "",
+  "el": "επτακόσια είκοσι επτά",
+  "tr": "eptakósia eíkosi eptá",
+  "forms": ""
+ },
+ {
+  "en": "770",
+  "note": "",
+  "el": "επτακόσια εβδομήντα",
+  "tr": "eptakósia evdomínta",
+  "forms": ""
+ },
+ {
+  "en": "800",
+  "note": "",
+  "el": "οκτακόσια",
+  "tr": "oktakósia",
+  "forms": ""
+ },
+ {
+  "en": "803",
+  "note": "",
+  "el": "οκτακόσια τρία",
+  "tr": "oktakósia tría",
+  "forms": ""
+ },
+ {
+  "en": "808",
+  "note": "",
+  "el": "οκτακόσια οκτώ",
+  "tr": "oktakósia októ",
+  "forms": ""
+ },
+ {
+  "en": "838",
+  "note": "",
+  "el": "οκτακόσια τριάντα οκτώ",
+  "tr": "oktakósia triánta októ",
+  "forms": ""
+ },
+ {
+  "en": "880",
+  "note": "",
+  "el": "οκτακόσια ογδόντα",
+  "tr": "oktakósia ogdónta",
+  "forms": ""
+ },
+ {
+  "en": "900",
+  "note": "",
+  "el": "εννιακόσια",
+  "tr": "enniakósia",
+  "forms": ""
+ },
+ {
+  "en": "904",
+  "note": "",
+  "el": "εννιακόσια τέσσερα",
+  "tr": "enniakósia téssera",
+  "forms": ""
+ },
+ {
+  "en": "909",
+  "note": "",
+  "el": "εννιακόσια εννέα",
+  "tr": "enniakósia ennéa",
+  "forms": ""
+ },
+ {
+  "en": "949",
+  "note": "",
+  "el": "εννιακόσια σαράντα εννέα",
+  "tr": "enniakósia saránta ennéa",
+  "forms": ""
+ },
+ {
+  "en": "990",
+  "note": "",
+  "el": "εννιακόσια ενενήντα",
+  "tr": "enniakósia enenínta",
+  "forms": ""
+ },
+ {
+  "en": "tiger",
+  "note": "",
+  "el": "η τίγρη",
+  "tr": "tígri",
+  "forms": ""
+ },
+ {
+  "en": "mouse",
+  "note": "animal",
+  "el": "το ποντίκι",
+  "tr": "pontíki",
+  "forms": ""
+ },
+ {
+  "en": "rat",
+  "note": "",
+  "el": "ο αρουραίος",
+  "tr": "arouraíos",
+  "forms": ""
+ },
+ {
+  "en": "rabbit",
+  "note": "",
+  "el": "το κουνέλι",
+  "tr": "kounéli",
+  "forms": ""
+ },
+ {
+  "en": "lion",
+  "note": "",
+  "el": "το λιοντάρι",
+  "tr": "liontári",
+  "forms": ""
+ },
+ {
+  "en": "donkey",
+  "note": "",
+  "el": "ο γάιδαρος",
+  "tr": "gáidaros",
+  "forms": ""
+ },
+ {
+  "en": "elephant",
+  "note": "",
+  "el": "ο ελέφαντας",
+  "tr": "eléfantas",
+  "forms": ""
+ },
+ {
+  "en": "bird",
+  "note": "",
+  "el": "το πουλί",
+  "tr": "poulí",
+  "forms": ""
+ },
+ {
+  "en": "cockerel",
+  "note": "",
+  "el": "ο κόκορας",
+  "tr": "kókoras",
+  "forms": ""
+ },
+ {
+  "en": "pigeon",
+  "note": "",
+  "el": "το περιστέρι",
+  "tr": "peristéri",
+  "forms": ""
+ },
+ {
+  "en": "goose",
+  "note": "",
+  "el": "η χήνα",
+  "tr": "chína",
+  "forms": ""
+ },
+ {
+  "en": "insect",
+  "note": "",
+  "el": "το έντομο",
+  "tr": "éntomo",
+  "forms": ""
+ },
+ {
+  "en": "bug",
+  "note": "",
+  "el": "το ζουζούνι",
+  "tr": "zouzoúni",
+  "forms": ""
+ },
+ {
+  "en": "mosquito",
+  "note": "",
+  "el": "το κουνούπι",
+  "tr": "kounoúpi",
+  "forms": ""
+ },
+ {
+  "en": "fly",
+  "note": "",
+  "el": "η μύγα",
+  "tr": "mýga",
+  "forms": ""
+ },
+ {
+  "en": "ant",
+  "note": "",
+  "el": "το μυρμήγκι",
+  "tr": "myrmínki",
+  "forms": ""
+ },
+ {
+  "en": "whale",
+  "note": "",
+  "el": "η φάλαινα",
+  "tr": "fálaina",
+  "forms": ""
+ },
+ {
+  "en": "shark",
+  "note": "",
+  "el": "ο καρχαρίας",
+  "tr": "karcharías",
+  "forms": ""
+ },
+ {
+  "en": "dolphin",
+  "note": "",
+  "el": "το δελφίνι",
+  "tr": "delfíni",
+  "forms": ""
+ },
+ {
+  "en": "snail",
+  "note": "",
+  "el": "το σαλιγκάρι",
+  "tr": "salinkári",
+  "forms": ""
+ },
+ {
+  "en": "frog",
+  "note": "",
+  "el": "ο βάτραχος",
+  "tr": "vátrachos",
+  "forms": ""
+ },
+ {
+  "en": "often",
+  "note": "",
+  "el": "συχνά",
+  "tr": "sychná",
+  "forms": ""
+ },
+ {
+  "en": "immediately",
+  "note": "",
+  "el": "αμέσως",
+  "tr": "amésos",
+  "forms": ""
+ },
+ {
+  "en": "suddenly",
+  "note": "",
+  "el": "ξαφνικά",
+  "tr": "xafniká",
+  "forms": ""
+ },
+ {
+  "en": "although",
+  "note": "",
+  "el": "αν και",
+  "tr": "an kai",
+  "forms": ""
+ },
+ {
+  "en": "gymnastics",
+  "note": "",
+  "el": "η ενόργανη γυμναστική",
+  "tr": "enórgani gymnastikí",
+  "forms": ""
+ },
+ {
+  "en": "tennis",
+  "note": "",
+  "el": "η αντισφαίριση",
+  "tr": "antisfaírisi",
+  "forms": ""
+ },
+ {
+  "en": "running",
+  "note": "",
+  "el": "το τρέξιμο",
+  "tr": "tréximo",
+  "forms": ""
+ },
+ {
+  "en": "cycling",
+  "note": "",
+  "el": "η ποδηλασία",
+  "tr": "podilasía",
+  "forms": ""
+ },
+ {
+  "en": "golf",
+  "note": "",
+  "el": "το γκολφ",
+  "tr": "nkolf",
+  "forms": ""
+ },
+ {
+  "en": "ice skating",
+  "note": "",
+  "el": "η παγοδρομία",
+  "tr": "pagodromía",
+  "forms": ""
+ },
+ {
+  "en": "football",
+  "note": "",
+  "el": "το ποδόσφαιρο",
+  "tr": "podósfairo",
+  "forms": ""
+ },
+ {
+  "en": "basketball",
+  "note": "",
+  "el": "η καλαθοσφαίριση",
+  "tr": "kalathosfaírisi",
+  "forms": ""
+ },
+ {
+  "en": "swimming",
+  "note": "",
+  "el": "η κολύμβηση",
+  "tr": "kolýmvisi",
+  "forms": ""
+ },
+ {
+  "en": "diving",
+  "note": "under the water",
+  "el": "οι καταδύσεις",
+  "tr": "katadýseis",
+  "forms": ""
+ },
+ {
+  "en": "hiking",
+  "note": "",
+  "el": "η πεζοπορία",
+  "tr": "pezoporía",
+  "forms": ""
+ },
+ {
+  "en": "United Kingdom",
+  "note": "",
+  "el": "το Ηνωμένο Βασίλειο",
+  "tr": "Inoméno Vasíleio",
+  "forms": ""
+ },
+ {
+  "en": "Spain",
+  "note": "",
+  "el": "η Ισπανία",
+  "tr": "Ispanía",
+  "forms": ""
+ },
+ {
+  "en": "Switzerland",
+  "note": "",
+  "el": "η Ελβετία",
+  "tr": "Elvetía",
+  "forms": ""
+ },
+ {
+  "en": "Italy",
+  "note": "",
+  "el": "η Ιταλία",
+  "tr": "Italía",
+  "forms": ""
+ },
+ {
+  "en": "France",
+  "note": "",
+  "el": "η Γαλλία",
+  "tr": "Gallía",
+  "forms": ""
+ },
+ {
+  "en": "Germany",
+  "note": "",
+  "el": "η Γερμανία",
+  "tr": "Germanía",
+  "forms": ""
+ },
+ {
+  "en": "Thailand",
+  "note": "",
+  "el": "η Ταϊλάνδη",
+  "tr": "Taïlándi",
+  "forms": ""
+ },
+ {
+  "en": "Singapore",
+  "note": "",
+  "el": "η Σιγκαπούρη",
+  "tr": "Sinkapoúri",
+  "forms": ""
+ },
+ {
+  "en": "Russia",
+  "note": "",
+  "el": "η Ρωσία",
+  "tr": "Rosía",
+  "forms": ""
+ },
+ {
+  "en": "Japan",
+  "note": "",
+  "el": "η Ιαπωνία",
+  "tr": "Iaponía",
+  "forms": ""
+ },
+ {
+  "en": "Israel",
+  "note": "",
+  "el": "το Ισραήλ",
+  "tr": "Israíl",
+  "forms": ""
+ },
+ {
+  "en": "India",
+  "note": "",
+  "el": "η Ινδία",
+  "tr": "Indía",
+  "forms": ""
+ },
+ {
+  "en": "China",
+  "note": "",
+  "el": "η Κίνα",
+  "tr": "Kína",
+  "forms": ""
+ },
+ {
+  "en": "The United States of America",
+  "note": "",
+  "el": "οι Ηνωμένες Πολιτείες της Αμερικής",
+  "tr": "Inoménes Politeíes tis Amerikís",
+  "forms": ""
+ },
+ {
+  "en": "Mexico",
+  "note": "",
+  "el": "το Μεξικό",
+  "tr": "Mexikó",
+  "forms": ""
+ },
+ {
+  "en": "Canada",
+  "note": "",
+  "el": "ο Καναδάς",
+  "tr": "Kanadás",
+  "forms": ""
+ },
+ {
+  "en": "Chile",
+  "note": "",
+  "el": "η Χιλή",
+  "tr": "Chilí",
+  "forms": ""
+ },
+ {
+  "en": "Brazil",
+  "note": "",
+  "el": "η Βραζιλία",
+  "tr": "Vrazilía",
+  "forms": ""
+ },
+ {
+  "en": "Argentina",
+  "note": "",
+  "el": "η Αργεντίνη",
+  "tr": "Argentíni",
+  "forms": ""
+ },
+ {
+  "en": "South Africa",
+  "note": "",
+  "el": "η Νότια Αφρική",
+  "tr": "Nótia Afrikí",
+  "forms": ""
+ },
+ {
+  "en": "Nigeria",
+  "note": "",
+  "el": "η Νιγηρία",
+  "tr": "Nigiría",
+  "forms": ""
+ },
+ {
+  "en": "Morocco",
+  "note": "",
+  "el": "το Μαρόκο",
+  "tr": "Maróko",
+  "forms": ""
+ },
+ {
+  "en": "Libya",
+  "note": "",
+  "el": "η Λιβύη",
+  "tr": "Livýi",
+  "forms": ""
+ },
+ {
+  "en": "Kenya",
+  "note": "",
+  "el": "η Κένυα",
+  "tr": "Kénya",
+  "forms": ""
+ },
+ {
+  "en": "Algeria",
+  "note": "",
+  "el": "η Αλγερία",
+  "tr": "Algería",
+  "forms": ""
+ },
+ {
+  "en": "Egypt",
+  "note": "",
+  "el": "η Αίγυπτος",
+  "tr": "Aígyptos",
+  "forms": ""
+ },
+ {
+  "en": "New Zealand",
+  "note": "",
+  "el": "η Νέα Ζηλανδία",
+  "tr": "Néa Zilandía",
+  "forms": ""
+ },
+ {
+  "en": "Australia",
+  "note": "",
+  "el": "η Αυστραλία",
+  "tr": "Afstralía",
+  "forms": ""
+ },
+ {
+  "en": "Africa",
+  "note": "",
+  "el": "η Αφρική",
+  "tr": "Afrikí",
+  "forms": ""
+ },
+ {
+  "en": "Europe",
+  "note": "",
+  "el": "η Ευρώπη",
+  "tr": "Evrópi",
+  "forms": ""
+ },
+ {
+  "en": "Asia",
+  "note": "",
+  "el": "η Ασία",
+  "tr": "Asía",
+  "forms": ""
+ },
+ {
+  "en": "America",
+  "note": "",
+  "el": "η Αμερική",
+  "tr": "Amerikí",
+  "forms": ""
+ },
+ {
+  "en": "quarter of an hour",
+  "note": "",
+  "el": "το τέταρτο της ώρας",
+  "tr": "tétarto tis óras",
+  "forms": ""
+ },
+ {
+  "en": "half an hour",
+  "note": "",
+  "el": "η μισή ώρα",
+  "tr": "misí óra",
+  "forms": ""
+ },
+ {
+  "en": "three quarters of an hour",
+  "note": "",
+  "el": "τα τρία τέταρτα της ώρας",
+  "tr": "tría tétarta tis óras",
+  "forms": ""
+ },
+ {
+  "en": "1:00",
+  "note": "",
+  "el": "μία η ώρα",
+  "tr": "mía i óra",
+  "forms": ""
+ },
+ {
+  "en": "2:05",
+  "note": "",
+  "el": "δύο και πέντε",
+  "tr": "dýo kai pénte",
+  "forms": ""
+ },
+ {
+  "en": "3:10",
+  "note": "",
+  "el": "τρεις και δέκα",
+  "tr": "treis kai déka",
+  "forms": ""
+ },
+ {
+  "en": "4:15",
+  "note": "",
+  "el": "τέσσερις και τέταρτο",
+  "tr": "tésseris kai tétarto",
+  "forms": ""
+ },
+ {
+  "en": "5:20",
+  "note": "",
+  "el": "πέντε και είκοσι",
+  "tr": "pénte kai eíkosi",
+  "forms": ""
+ },
+ {
+  "en": "6:25",
+  "note": "",
+  "el": "έξι και είκοσι πέντε",
+  "tr": "éxi kai eíkosi pénte",
+  "forms": ""
+ },
+ {
+  "en": "7:30",
+  "note": "",
+  "el": "επτά και μισή",
+  "tr": "eptá kai misí",
+  "forms": ""
+ },
+ {
+  "en": "8:35",
+  "note": "",
+  "el": "οκτώ και τριάντα πέντε",
+  "tr": "októ kai triánta pénte",
+  "forms": ""
+ },
+ {
+  "en": "9:40",
+  "note": "",
+  "el": "δέκα παρά είκοσι",
+  "tr": "déka pará eíkosi",
+  "forms": ""
+ },
+ {
+  "en": "10:45",
+  "note": "",
+  "el": "έντεκα παρά τέταρτο",
+  "tr": "énteka pará tétarto",
+  "forms": ""
+ },
+ {
+  "en": "11:50",
+  "note": "",
+  "el": "δώδεκα παρά δέκα",
+  "tr": "dódeka pará déka",
+  "forms": ""
+ },
+ {
+  "en": "12:55",
+  "note": "",
+  "el": "μία παρά πέντε",
+  "tr": "mía pará pénte",
+  "forms": ""
+ },
+ {
+  "en": "one o'clock in the morning",
+  "note": "",
+  "el": "μία το πρωί",
+  "tr": "mía to proí",
+  "forms": ""
+ },
+ {
+  "en": "two o'clock in the afternoon",
+  "note": "",
+  "el": "δύο το απόγευμα",
+  "tr": "dýo to apógevma",
+  "forms": ""
+ },
+ {
+  "en": "last week",
+  "note": "",
+  "el": "την προηγούμενη εβδομάδα",
+  "tr": "tin proigoúmeni evdomáda",
+  "forms": ""
+ },
+ {
+  "en": "this week",
+  "note": "",
+  "el": "αυτή την εβδομάδα",
+  "tr": "aftí tin evdomáda",
+  "forms": ""
+ },
+ {
+  "en": "next week",
+  "note": "",
+  "el": "την επόμενη εβδομάδα",
+  "tr": "tin epómeni evdomáda",
+  "forms": ""
+ },
+ {
+  "en": "last year",
+  "note": "",
+  "el": "πέρυσι",
+  "tr": "pérysi",
+  "forms": ""
+ },
+ {
+  "en": "this year",
+  "note": "",
+  "el": "φέτος",
+  "tr": "fétos",
+  "forms": ""
+ },
+ {
+  "en": "next year",
+  "note": "",
+  "el": "του χρόνου",
+  "tr": "tou chrónou",
+  "forms": ""
+ },
+ {
+  "en": "last month",
+  "note": "",
+  "el": "τον προηγούμενο μήνα",
+  "tr": "ton proigoúmeno mína",
+  "forms": ""
+ },
+ {
+  "en": "this month",
+  "note": "",
+  "el": "αυτό το μηνα",
+  "tr": "aftó to mina",
+  "forms": ""
+ },
+ {
+  "en": "next month",
+  "note": "",
+  "el": "τον επόμενο μήνα",
+  "tr": "ton epómeno mína",
+  "forms": ""
+ },
+ {
+  "en": "2014-01-01",
+  "note": "",
+  "el": "πρώτη Ιανουαρίου δύο χιλιάδες δεκατέσσερα",
+  "tr": "próti Ianouaríou dýo chiliádes dekatéssera",
+  "forms": ""
+ },
+ {
+  "en": "2003-02-25",
+  "note": "",
+  "el": "είκοσι πέντε Φεβρουαρίου δύο χιλιάδες τρία",
+  "tr": "eíkosi pénte Fevrouaríou dýo chiliádes tría",
+  "forms": ""
+ },
+ {
+  "en": "1988-04-12",
+  "note": "",
+  "el": "δώδεκα Απριλίου χίλια εννιακόσια ογδόντα οκτώ",
+  "tr": "dódeka Aprilíou chília enniakósia ogdónta októ",
+  "forms": ""
+ },
+ {
+  "en": "1899-10-13",
+  "note": "",
+  "el": "δεκατρείς Οκτώβρίου χίλια οκτακόσια ενενήντα εννέα",
+  "tr": "dekatreís Októvríou chília oktakósia enenínta ennéa",
+  "forms": ""
+ },
+ {
+  "en": "1907-09-30",
+  "note": "",
+  "el": "τριάντα Σεπτεμβρίου χίλια εννιακόσια επτά",
+  "tr": "triánta Septemvríou chília enniakósia eptá",
+  "forms": ""
+ },
+ {
+  "en": "2000-12-12",
+  "note": "",
+  "el": "δώδεκα Δεκεμβρίου δύο χιλιάδες",
+  "tr": "dódeka Dekemvríou dýo chiliádes",
+  "forms": ""
+ },
+ {
+  "en": "forehead",
+  "note": "",
+  "el": "το μέτωπο",
+  "tr": "métopo",
+  "forms": ""
+ },
+ {
+  "en": "wrinkle",
+  "note": "",
+  "el": "η ρυτίδα",
+  "tr": "rytída",
+  "forms": ""
+ },
+ {
+  "en": "chin",
+  "note": "",
+  "el": "το πηγούνι",
+  "tr": "pigoúni",
+  "forms": ""
+ },
+ {
+  "en": "cheek",
+  "note": "",
+  "el": "το μάγουλο",
+  "tr": "mágoulo",
+  "forms": ""
+ },
+ {
+  "en": "beard",
+  "note": "",
+  "el": "τα γένια",
+  "tr": "génia",
+  "forms": ""
+ },
+ {
+  "en": "eyelashes",
+  "note": "",
+  "el": "οι βλεφαρίδες",
+  "tr": "vlefarídes",
+  "forms": ""
+ },
+ {
+  "en": "eyebrow",
+  "note": "",
+  "el": "το φρύδι",
+  "tr": "frýdi",
+  "forms": ""
+ },
+ {
+  "en": "waist",
+  "note": "",
+  "el": "η μέση",
+  "tr": "mési",
+  "forms": ""
+ },
+ {
+  "en": "nape",
+  "note": "",
+  "el": "ο αυχένας",
+  "tr": "afchénas",
+  "forms": ""
+ },
+ {
+  "en": "chest",
+  "note": "",
+  "el": "ο θώρακας",
+  "tr": "thórakas",
+  "forms": ""
+ },
+ {
+  "en": "thumb",
+  "note": "",
+  "el": "ο αντίχειρας",
+  "tr": "antícheiras",
+  "forms": ""
+ },
+ {
+  "en": "little finger",
+  "note": "",
+  "el": "το μικρό δάχτυλο",
+  "tr": "mikró dáchtylo",
+  "forms": ""
+ },
+ {
+  "en": "ring finger",
+  "note": "",
+  "el": "ο παράμεσος",
+  "tr": "parámesos",
+  "forms": ""
+ },
+ {
+  "en": "middle finger",
+  "note": "",
+  "el": "το μεσαίο δάχτυλο",
+  "tr": "mesaío dáchtylo",
+  "forms": ""
+ },
+ {
+  "en": "index finger",
+  "note": "",
+  "el": "ο δείκτης",
+  "tr": "deíktis",
+  "forms": ""
+ },
+ {
+  "en": "wrist",
+  "note": "",
+  "el": "ο καρπός",
+  "tr": "karpós",
+  "forms": ""
+ },
+ {
+  "en": "fingernail",
+  "note": "",
+  "el": "το νύχι",
+  "tr": "nýchi",
+  "forms": ""
+ },
+ {
+  "en": "heel",
+  "note": "",
+  "el": "η φτέρνα",
+  "tr": "ftérna",
+  "forms": ""
+ },
+ {
+  "en": "spine",
+  "note": "",
+  "el": "η σπονδυλική στήλη",
+  "tr": "spondylikí stíli",
+  "forms": ""
+ },
+ {
+  "en": "muscle",
+  "note": "",
+  "el": "ο μυς",
+  "tr": "mys",
+  "forms": ""
+ },
+ {
+  "en": "bone",
+  "note": "part of body",
+  "el": "το οστό",
+  "tr": "ostó",
+  "forms": ""
+ },
+ {
+  "en": "skeleton",
+  "note": "",
+  "el": "ο σκελετός",
+  "tr": "skeletós",
+  "forms": ""
+ },
+ {
+  "en": "rib",
+  "note": "",
+  "el": "το πλευρό",
+  "tr": "plevró",
+  "forms": ""
+ },
+ {
+  "en": "vertebra",
+  "note": "",
+  "el": "ο σπόνδυλος",
+  "tr": "spóndylos",
+  "forms": ""
+ },
+ {
+  "en": "bladder",
+  "note": "",
+  "el": "η ουροδόχος κύστη",
+  "tr": "ourodóchos kýsti",
+  "forms": ""
+ },
+ {
+  "en": "vein",
+  "note": "",
+  "el": "η φλέβα",
+  "tr": "fléva",
+  "forms": ""
+ },
+ {
+  "en": "artery",
+  "note": "",
+  "el": "η αρτηρία",
+  "tr": "artiría",
+  "forms": ""
+ },
+ {
+  "en": "vagina",
+  "note": "",
+  "el": "ο κόλπος",
+  "tr": "kólpos",
+  "forms": ""
+ },
+ {
+  "en": "sperm",
+  "note": "",
+  "el": "το σπέρμα",
+  "tr": "spérma",
+  "forms": ""
+ },
+ {
+  "en": "penis",
+  "note": "",
+  "el": "το πέος",
+  "tr": "péos",
+  "forms": ""
+ },
+ {
+  "en": "testicle",
+  "note": "",
+  "el": "ο όρχις",
+  "tr": "órchis",
+  "forms": ""
+ },
+ {
+  "en": "juicy",
+  "note": "",
+  "el": "χυμώδης",
+  "tr": "chymódis",
+  "forms": "χυμώδης, χυμώδες, χυμώδεις, χυμώδεις, χυμώδη"
+ },
+ {
+  "en": "hot",
+  "note": "spicy",
+  "el": "καυτερός",
+  "tr": "kafterós",
+  "forms": "καυτερή, καυτερό, καυτεροί, καυτερές, καυτερά"
+ },
+ {
+  "en": "salty",
+  "note": "",
+  "el": "αλμυρός",
+  "tr": "almyrós",
+  "forms": "αλμυρή, αλμυρό, αλμυροί, αλμυρές, αλμυρά"
+ },
+ {
+  "en": "raw",
+  "note": "",
+  "el": "ωμός",
+  "tr": "omós",
+  "forms": "ωμή, ωμό, ωμοί, ωμές, ωμά"
+ },
+ {
+  "en": "boiled",
+  "note": "",
+  "el": "βρασμένος",
+  "tr": "vrasménos",
+  "forms": "βρασμένη, βρασμένο, βρασμένοι, βρασμένες, βρασμένα"
+ },
+ {
+  "en": "shy",
+  "note": "",
+  "el": "ντροπαλός",
+  "tr": "ntropalós",
+  "forms": "ντροπαλή, ντροπαλό, ντροπαλοί, ντροπαλές, ντροπαλά"
+ },
+ {
+  "en": "greedy",
+  "note": "",
+  "el": "άπληστος",
+  "tr": "áplistos",
+  "forms": "άπληστη, άπληστο, άπληστοι, άπληστες, άπληστα"
+ },
+ {
+  "en": "strict",
+  "note": "",
+  "el": "αυστηρός",
+  "tr": "afstirós",
+  "forms": "αυστηρή, αυστηρό, αυστηροί, αυστηρές, αυστηρά"
+ },
+ {
+  "en": "deaf",
+  "note": "",
+  "el": "κουφός",
+  "tr": "koufós",
+  "forms": "κουφή, κουφό, κουφοί, κουφές, κουφά"
+ }
+]
