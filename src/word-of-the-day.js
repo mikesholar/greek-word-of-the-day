@@ -17,10 +17,12 @@ const calendarDayNumber = (date) =>
 
 const positiveModulo = (value, divisor) => ((value % divisor) + divisor) % divisor;
 
+const isNumeralOnly = (card) => !/\p{L}/u.test(card.en);
+
 export const cardForDate = ({ cards, date }) => {
-  const order = shuffledOrder(cards.length);
-  const index = order[positiveModulo(calendarDayNumber(date), cards.length)];
-  return { card: cards[index], number: index + 1 };
+  const rotation = cards.map((card, index) => ({ card, number: index + 1 })).filter(({ card }) => !isNumeralOnly(card));
+  const order = shuffledOrder(rotation.length);
+  return rotation[order[positiveModulo(calendarDayNumber(date), rotation.length)]];
 };
 
 export const shiftDate = ({ date, days }) =>

@@ -3,7 +3,8 @@
 A mobile-first static site that shows one of the 1000 most common Greek words each day.
 Tap the card to flip from English to Greek (with transliteration and word forms), use ‹ › or swipe to browse other days, and tap **Hear it** for pronunciation (browser speech synthesis).
 
-- Every calendar day maps to a card through a fixed shuffle, so all 1000 cards appear once before any repeats (~2.7-year cycle).
+- Every calendar day maps to a card through a fixed shuffle, so each card appears once before any repeats (~2.4-year cycle).
+- Cards that are only numerals (numbers, clock times, dates, `3%`) are left out of the rotation, leaving 880 words.
 - Share a specific day with `?d=YYYY-MM-DD`.
 
 ## Develop

@@ -71,3 +71,19 @@ test("a date round-trips through its shareable URL parameter", () => {
   assert.equal(toDateParam(localDate("2026-03-05")), "2026-03-05");
   assert.equal(toDateParam(parseDateParam("2027-12-31")), "2027-12-31");
 });
+
+test("cards that are only numerals, times or dates are left out of the daily rotation", () => {
+  const numeric = ["48", "1,000", "2:05", "2014-01-01", "3%"].map((en) => ({ en, el: "αριθμός", tr: "arithmós" }));
+  const cards = [...makeCards(10), ...numeric];
+  const start = localDate("2026-01-01");
+  const shown = Array.from({ length: cards.length * 2 }, (_, i) =>
+    cardForDate({ cards, date: shiftDate({ date: start, days: i }) }).card.en,
+  );
+  assert.equal(new Set(shown).size, 10);
+  assert.ok(shown.every((en) => en.startsWith("word ")));
+});
+
+test("phrases that contain a number stay in the rotation", () => {
+  const cards = [{ en: "I'm 22 years old", el: "Είμαι 22 χρονών", tr: "Eímai 22 chronón" }, { en: "7", el: "επτά", tr: "eptá" }];
+  assert.equal(cardForDate({ cards, date: localDate("2026-09-24") }).card.en, "I'm 22 years old");
+});
