@@ -1,4 +1,4 @@
-import { cardForDate, parseDateParam, shiftDate, toDateParam } from "./word-of-the-day.js";
+import { cardCaption, cardForDate, parseDateParam, shiftDate, toDateParam } from "./word-of-the-day.js";
 
 const LONG_TEXT_LENGTH = 14;
 const SWIPE_THRESHOLD_PX = 50;
@@ -27,7 +27,7 @@ const speak = (text) => {
 };
 
 const render = ({ cards, date }) => {
-  const { card, number } = cardForDate({ cards, date });
+  const { card } = cardForDate({ cards, date });
   const today = startOfToday();
 
   $("date").textContent = formatDate(date);
@@ -42,7 +42,8 @@ const render = ({ cards, date }) => {
   $("el").classList.toggle("long", card.el.length > LONG_TEXT_LENGTH);
   $("tr").textContent = card.tr;
   $("forms").textContent = card.forms;
-  $("count").textContent = `Word ${number} of ${cards.length} most common`;
+  $("count").textContent = cardCaption(card);
+  $("topic").textContent = card.topic ?? "";
   $("card").classList.remove("flipped");
   $("card").setAttribute("aria-label", `${card.en}. Tap to reveal the Greek.`);
   $("speak").hidden = !("speechSynthesis" in window);

@@ -1,6 +1,6 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { cardForDate, parseDateParam, shiftDate, toDateParam } from "./word-of-the-day.js";
+import { cardCaption, cardForDate, parseDateParam, shiftDate, toDateParam } from "./word-of-the-day.js";
 
 const makeCards = (count) =>
   Array.from({ length: count }, (_, i) => ({ en: `word ${i}`, el: `λέξη ${i}`, tr: `lexi ${i}` }));
@@ -86,4 +86,14 @@ test("cards that are only numerals, times or dates are left out of the daily rot
 test("phrases that contain a number stay in the rotation", () => {
   const cards = [{ en: "I'm 22 years old", el: "Είμαι 22 χρονών", tr: "Eímai 22 chronón" }, { en: "7", el: "επτά", tr: "eptá" }];
   assert.equal(cardForDate({ cards, date: localDate("2026-09-24") }).card.en, "I'm 22 years old");
+});
+
+test("a word from the most-common list is captioned with its frequency rank", () => {
+  const card = { en: "shower", el: "το ντους", tr: "ntous", rank: 612, topic: "House" };
+  assert.equal(cardCaption(card), "#612 of the 1000 most common Greek words");
+});
+
+test("a word outside the most-common list is captioned with its topic", () => {
+  const card = { en: "mint", el: "η μέντα", tr: "ménta", topic: "Food and Drinks" };
+  assert.equal(cardCaption(card), "Extra vocabulary · Food and Drinks");
 });

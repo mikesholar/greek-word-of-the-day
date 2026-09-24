@@ -40,3 +40,6 @@ export const toDateParam = (date) =>
   [date.getFullYear(), date.getMonth() + 1, date.getDate()]
     .map((part, i) => String(part).padStart(i === 0 ? 4 : 2, "0"))
     .join("-");
+
+export const cardCaption = (card) =>
+  card.rank ? `#${card.rank} of the 1000 most common Greek words` : `Extra vocabulary · ${card.topic}`;

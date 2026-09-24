@@ -25,8 +25,8 @@ for page in root.iter('page'):
         zone = 'en' if y0 < EN_LIMIT[row] else 'el'
         cells.setdefault((row, col), {}).setdefault(zone, []).append((y0, x0, y1 - y0, w.text))
     for key in sorted(cells):
-        en = to_lines(cells[key]['en'])
-        el = to_lines(cells[key]['el'])
+        en = to_lines(cells[key].get('en', []))
+        el = to_lines(cells[key].get('el', []))
         n = next((i for i, l in enumerate(el) if not GREEK.search(l['t'].split(' / ')[0])), len(el))
         tr, _, forms = ' '.join(l['t'] for l in el[n:]).partition(' / ')
         cards.append(dict(
